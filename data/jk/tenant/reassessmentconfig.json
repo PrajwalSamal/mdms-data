@@ -1,8 +1,0 @@
-{
-    "tenantId": "jk",
-    "moduleName": "tenant",
-    "reassessmentconfig":[ {
-        "tenant": ["jk.smc"],
-        "financialyear": "2021-22"
-    }]
-}
