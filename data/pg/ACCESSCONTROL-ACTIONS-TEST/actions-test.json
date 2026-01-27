@@ -7728,7 +7728,7 @@
       "displayName": "SURE Dashboard",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "integration",
       "code": "",
       "path": "",
