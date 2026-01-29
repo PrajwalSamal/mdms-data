@@ -2,6 +2,11 @@
   "tenantId": "pg",
   "moduleName": "common-masters",
   "Department": [
+      {
+      "name": "Accounts Branch",
+      "code": "DEPT_25",
+      "active": true
+    },
     {
       "name": "Building & Roads",
       "code": "DEPT_2",
@@ -16,12 +21,8 @@
       "name": "Operation & Maintenance",
       "code": "DEPT_4",
       "active": true
-    },
-    {
-      "name": "Accounts Branch",
-      "code": "DEPT_25",
-      "active": true
     }
+  
     
   ]
 }
