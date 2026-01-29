@@ -5,7 +5,7 @@
     {
       "name": "Street Lights",
       "code": "DEPT_1",
-      "active": true
+      "active": false
     },
     {
       "name": "Building & Roads",
