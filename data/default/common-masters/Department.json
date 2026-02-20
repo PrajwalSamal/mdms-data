@@ -57,6 +57,104 @@
       "code": "EDU",
       "active": "true",
       "tenantId": "default"
+    },
+    {
+      "id": "12",
+      "name": "Accounts Section",
+      "code": "ACC_SEC",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "13",
+      "name": "Electric Section",
+      "code": "ELEC",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "14",
+      "name": "Enforcement Section",
+      "code": "ENF",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "15",
+      "name": "General Administration",
+      "code": "GEN_ADM",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "16",
+      "name": "Horticulture Section",
+      "code": "HORT",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "17",
+      "name": "Health Section",
+      "code": "HEALTH",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "18",
+      "name": "Transport Section",
+      "code": "TRANS",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "19",
+      "name": "Engg. Div.I",
+      "code": "ENG_D1",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "20",
+      "name": "Engg. Div.II",
+      "code": "ENG_D2",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "21",
+      "name": "Engg. Div.III",
+      "code": "ENG_D3",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "22",
+      "name": "Engg. Div.IV",
+      "code": "ENG_D4",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "23",
+      "name": "Engg. Div. PWD (R&B)",
+      "code": "ENG_PWRB",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "24",
+      "name": "Engg. Mechanical Division",
+      "code": "ENG_MECH",
+      "active": "true",
+      "tenantId": "default"
+    },
+    {
+      "id": "25",
+      "name": "Engg. Project Division",
+      "code": "ENG_PROJ",
+      "active": "true",
+      "tenantId": "default"
     }
   ]
 }
