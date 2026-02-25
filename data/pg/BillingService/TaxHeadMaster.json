@@ -2901,7 +2901,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "ACCOUNT_SECTION.MISC_FEE",
+      "service": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
       "name": "Interest from Bank on Smart Saver Acc.",
       "code": "ACC_INTEREST_SMART_SAVER",
       "isDebit": false,
@@ -2911,7 +2911,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "ACCOUNT_SECTION.MISC_FEE",
+      "service": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
       "name": "Recurring Deposit Accounts",
       "code": "ACC_RECURRING_DEPOSIT",
       "isDebit": false,
