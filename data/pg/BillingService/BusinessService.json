@@ -96,7 +96,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "type": "Adhoc",
-	  "isActive": false,
+      "isActive": false,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -110,7 +110,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "type": "Adhoc",
-	  "isActive": true,
+      "isActive": true,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1041,6 +1041,990 @@
     {
       "businessService": "Disposal of Fixed Asset.Motor Vehicle",
       "code": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Account Section.Miscellaneous Fee Acc. Sec.",
+      "code": "ACCOUNT_SECTION.MISC_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Account Section.Interest from Bank on Smart Saver Acc.",
+      "code": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Account Section.Recurring Deposit Accounts",
+      "code": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Birth & Death Registration Section.Registration Fee Birth & Death Section",
+      "code": "BD_REGISTRATION.REG_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Birth & Death Registration Section.Birth & Death Registration Fees (Vital Statistics)",
+      "code": "BD_REGISTRATION.VITAL_STATS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Birth & Death Registration Section.Copying Fee Birth & Death Section",
+      "code": "BD_REGISTRATION.COPYING_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Licensing fees Building",
+      "code": "BUILDING_SECTION.LICENSING_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Fees from sanction of building plans",
+      "code": "BUILDING_SECTION.PLAN_SANCTION_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Betterment Charges",
+      "code": "BUILDING_SECTION.BETTERMENT_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Building construction regularization fees",
+      "code": "BUILDING_SECTION.REGULARIZATION_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Application fees",
+      "code": "BUILDING_SECTION.APPLICATION_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Copying Fee Building Section",
+      "code": "BUILDING_SECTION.COPYING_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Compounding fees- Building Section",
+      "code": "BUILDING_SECTION.COMPOUNDING_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Sanitation Charges Building Sec",
+      "code": "BUILDING_SECTION.SANITATION_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Interest on House Building Loans",
+      "code": "BUILDING_SECTION.HOUSE_LOAN_INTEREST",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Deposite for Mulba Security",
+      "code": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.Deposite of Septic Tank Security",
+      "code": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "General Administration- RTI.Copying Fees RTI",
+      "code": "GENERAL_ADMIN_RTI.COPYING_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "General Administration- RTI.Recovery from Employees",
+      "code": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "General Administration- RTI.Recovery from Contractor",
+      "code": "GENERAL_ADMIN_RTI.RECOVERY_CONTRACTOR",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "General Administration- RTI.Recovery of Temporary Advance Payment",
+      "code": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "General Administration- RTI.Application Fees",
+      "code": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.C&D Fine",
+      "code": "HEALTH_SECTION.CD_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Polythene Fine",
+      "code": "HEALTH_SECTION.POLYTHENE_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Open/Burning Fine",
+      "code": "HEALTH_SECTION.OPEN_BURNING_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Smoking Fine",
+      "code": "HEALTH_SECTION.SMOKING_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Spitting Fine",
+      "code": "HEALTH_SECTION.SPITTING_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Insanitary Condition in K/H/Restur/Dhaba",
+      "code": "HEALTH_SECTION.INSANITARY_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Dai License Fee Health Sec",
+      "code": "HEALTH_SECTION.DAI_LICENSE_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Compounding Fee Health Sec",
+      "code": "HEALTH_SECTION.COMPOUNDING_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Application Fees (Food And Drugs Form Fees)",
+      "code": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Litter & Debris Collection (SWM) charges",
+      "code": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.User Charges Health Sec Online/Others",
+      "code": "HEALTH_SECTION.USER_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.BWGs Rail Head U/Charges",
+      "code": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Flag Revenue",
+      "code": "HEALTH_SECTION.FLAG_REVENUE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Rent from Ground and Field",
+      "code": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.NOC Fee Khilafwarzi Section",
+      "code": "KHILAFWARZI_SECTION.NOC_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Demolition Charges",
+      "code": "KHILAFWARZI_SECTION.DEMOLITION_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Recovery of Transportation",
+      "code": "KHILAFWARZI_SECTION.TRANSPORT_RECOVERY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Copying Fee Khilafwarzi Sec",
+      "code": "KHILAFWARZI_SECTION.COPYING_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Fine & Penality Khilafwarzi Sec",
+      "code": "KHILAFWARZI_SECTION.FINE_PENALTY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Compounding Fee Khalifwarzi Sec",
+      "code": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Recovery from Employees",
+      "code": "KHILAFWARZI_SECTION.RECOVERY_EMPLOYEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Khilafwarzi Section.Sanitation Charges",
+      "code": "KHILAFWARZI_SECTION.SANITATION_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.Penalties & Fines- Other Fines",
+      "code": "OTHER_SERVICE_MISC.PENALTY_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.Penalties & Cancellation of Contract (CDR)",
+      "code": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.Miscellaneous fees",
+      "code": "OTHER_SERVICE_MISC.MISC_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.GST From Auction",
+      "code": "OTHER_SERVICE_MISC.GST_AUCTION",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.Recovery from Contractor",
+      "code": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.Sale of tender papers",
+      "code": "OTHER_SERVICE_MISC.SALE_TENDER_PAPERS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.Sales of Other Items and Scraps",
+      "code": "OTHER_SERVICE_MISC.SALE_ITEMS_SCRAP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "PHE Jal Shakti Department.Water Filling Charges- PHE Jal Shakti Department",
+      "code": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Rental income",
+      "code": "REVENUE_SECTION.RENTAL_INCOME",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.License fees",
+      "code": "REVENUE_SECTION.LICENSE_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Property tax",
+      "code": "REVENUE_SECTION.PROPERTY_TAX",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Water tax",
+      "code": "REVENUE_SECTION.WATER_TAX",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Revenue from Sale",
+      "code": "REVENUE_SECTION.REVENUE_SALE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Entry Fees",
+      "code": "REVENUE_SECTION.ENTRY_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Advertisement tax",
+      "code": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Fees and Registration charges",
+      "code": "REVENUE_SECTION.REGISTRATION_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Hire Charges",
+      "code": "REVENUE_SECTION.HIRE_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Other taxes and revenues",
+      "code": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.User Charges",
+      "code": "REVENUE_SECTION.USER_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Revenue Section.Fines and Penalities",
+      "code": "REVENUE_SECTION.FINES_PENALTIES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Transport Section.Recovery of Transportation Charges",
+      "code": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Transport Section.Excess Payment Recovery from Contractor",
+      "code": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Transport Section.Compounding fees",
+      "code": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Transport Section.Water/Septic Tank Fees",
+      "code": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Transport Section.Sewerage cleaning charges",
+      "code": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Transport Section.Charges for supply of water by tankers",
+      "code": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Licensing fees from slaughter houses",
+      "code": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Dog Registration fees MVO",
+      "code": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Dairy Farm Registration Fee",
+      "code": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Milk Fine MVO Section",
+      "code": "VETERINARY_MVO.MILK_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Meat Fine MVO Section",
+      "code": "VETERINARY_MVO.MEAT_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Penalties/Fine MVO Section",
+      "code": "VETERINARY_MVO.PENALTY_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Recovery of Transportation MVO Sec",
+      "code": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Cattle Impounding Fee MVO",
+      "code": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Recovery Frm Employee MVO",
+      "code": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Maintenance Cost of Bovine MVO",
+      "code": "VETERINARY_MVO.BOVINE_MAINTENANCE_COST",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Compounding Fee Mvo",
+      "code": "VETERINARY_MVO.COMPOUNDING_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.Misc Fee Mvo Sec",
+      "code": "VETERINARY_MVO.MISC_FEES",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1994,7 +2978,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
-	{
+    {
       "businessService": "SWReconnection",
       "code": "SWReconnection",
       "collectionModesNotAllowed": [
@@ -2049,7 +3033,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
-	   {
+    {
       "businessService": "request-service.water_tanker",
       "code": "request-service.water_tanker",
       "collectionModesNotAllowed": [
