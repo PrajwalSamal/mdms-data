@@ -1002,54 +1002,7 @@
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
-      "businessService": "Revenue Grants",
-      "code": "REV_GRANTS",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Finance"
-    },
-    {
-      "businessService": "Disposal of Fixed Asset.Land",
-      "code": "DISP_FIXED_ASSET.LAND",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Finance"
-    },
-    {
-      "businessService": "Disposal of Fixed Asset.Building",
-      "code": "DISP_FIXED_ASSET.BUILDING",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Finance"
-    },
-    {
-      "businessService": "Disposal of Fixed Asset.Motor Vehicle",
-      "code": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Finance"
-    },
+  
     {
       "businessService": "Account Section.Miscellaneous Fee Acc Sec",
       "code": "ACCOUNT_SECTION.MISC_FEE",
