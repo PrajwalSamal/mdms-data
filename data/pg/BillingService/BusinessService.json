@@ -1011,7 +1011,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Finance"
     },
     {
@@ -1023,7 +1023,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Finance"
     },
     {
@@ -1035,7 +1035,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Finance"
     },
     {
@@ -1047,11 +1047,11 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Finance"
     },
     {
-      "businessService": "Account Section.Miscellaneous Fee Acc. Sec.",
+      "businessService": "Account Section.Miscellaneous Fee Acc Sec",
       "code": "ACCOUNT_SECTION.MISC_FEE",
       "collectionModesNotAllowed": [
         "DD"
@@ -1063,7 +1063,7 @@
       "type": "Finance"
     },
     {
-      "businessService": "Account Section.Interest from Bank on Smart Saver Acc.",
+      "businessService": "Account Section.Interest from Bank on Smart Saver Acc",
       "code": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
       "collectionModesNotAllowed": [
         "DD"
