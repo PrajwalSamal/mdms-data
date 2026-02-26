@@ -2,7 +2,7 @@
   "tenantId": "pg",
   "moduleName": "BillingService",
   "TaxPeriod": [
-	   {
+    {
       "fromDate": 1680307199000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
@@ -10,7 +10,6 @@
       "code": "PTAN2023",
       "financialYear": "2023-24"
     },
-   
     {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
@@ -115,7 +114,7 @@
       "code": "PTAN2025",
       "financialYear": "2025-26"
     },
-	{
+    {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
@@ -195,7 +194,7 @@
       "code": "TLAN2016",
       "financialYear": "2016-17"
     },
-	{
+    {
       "fromDate": 1490985000000,
       "toDate": 1522520999000,
       "periodCycle": "ANNUAL",
@@ -203,7 +202,7 @@
       "code": "TLAN2017",
       "financialYear": "2017-18"
     },
-	    {
+    {
       "fromDate": 1522521000000,
       "toDate": 1554056999000,
       "periodCycle": "ANNUAL",
@@ -251,7 +250,7 @@
       "code": "TLAN2023",
       "financialYear": "2023-24"
     },
-	{
+    {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
@@ -267,8 +266,8 @@
       "code": "TLAN2025",
       "financialYear": "2025-26"
     },
-	{
-	  "fromDate": 1743445800000,
+    {
+      "fromDate": 1743445800000,
       "toDate": 1774981799000,
       "periodCycle": "ANNUAL",
       "service": "FIRENOC",
@@ -283,7 +282,7 @@
       "code": "TLAN2025",
       "financialYear": "2025-26"
     },
-	{
+    {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
@@ -291,7 +290,7 @@
       "code": "FIRENOCAN2024",
       "financialYear": "2024-25"
     },
-	{
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
@@ -299,7 +298,7 @@
       "code": "FIRENOCAN2023",
       "financialYear": "2023-24"
     },
-	{
+    {
       "fromDate": 1648751400000,
       "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
@@ -307,7 +306,7 @@
       "code": "FIRENOCAN2022",
       "financialYear": "2022-23"
     },
-	{
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
@@ -315,7 +314,7 @@
       "code": "FIRENOCAN2021",
       "financialYear": "2021-22"
     },
-	{
+    {
       "fromDate": 1585679400000,
       "toDate": 1617172199000,
       "periodCycle": "ANNUAL",
@@ -323,7 +322,7 @@
       "code": "FIRENOCAN2020",
       "financialYear": "2020-21"
     },
-	{
+    {
       "fromDate": 1554076799000,
       "toDate": 1585679399000,
       "periodCycle": "ANNUAL",
@@ -363,7 +362,7 @@
       "code": "TXNDCAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -371,7 +370,7 @@
       "code": "TXNDCAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -379,7 +378,7 @@
       "code": "ADHAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -387,7 +386,7 @@
       "code": "TXNDCAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -395,7 +394,7 @@
       "code": "TXNDCAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -403,7 +402,7 @@
       "code": "ADHAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -411,7 +410,7 @@
       "code": "ADHAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -419,7 +418,7 @@
       "code": "ADHAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -435,7 +434,7 @@
       "code": "TLRENEWAL2025",
       "financialYear": "2025-26"
     },
-	{
+    {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
@@ -443,7 +442,7 @@
       "code": "TLRENEWAL2024",
       "financialYear": "2024-25"
     },
-	{
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
@@ -466,7 +465,8 @@
       "service": "TL",
       "code": "TLRENEWAL2021",
       "financialYear": "2021-22"
-    },{
+    },
+    {
       "fromDate": 1585679400000,
       "toDate": 1617215399000,
       "periodCycle": "ANNUAL",
@@ -522,7 +522,7 @@
       "code": "WC2022",
       "financialYear": "2022-23"
     },
-	{
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "TWOYEARS",
@@ -530,7 +530,7 @@
       "code": "WC2023",
       "financialYear": "2023-24"
     },
-	{
+    {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "TWOYEARS",
@@ -546,7 +546,7 @@
       "code": "WC2025",
       "financialYear": "2025-26"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -554,7 +554,7 @@
       "code": "RTPFAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -562,7 +562,7 @@
       "code": "RTMSRAN2023",
       "financialYear": "2016-30"
     },
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -626,7 +626,7 @@
       "code": "WC2021",
       "financialYear": "2021-22"
     },
-	{
+    {
       "fromDate": 1648751400000,
       "toDate": 1680287399000,
       "periodCycle": "TWOYEARS",
@@ -634,7 +634,7 @@
       "code": "WC2022",
       "financialYear": "2022-23"
     },
-	{
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "TWOYEARS",
@@ -658,7 +658,7 @@
       "code": "SC2025",
       "financialYear": "2025-26"
     },
-	{
+    {
       "fromDate": 1648771200000,
       "toDate": 1680307199000,
       "periodCycle": "TWOYEARS",
@@ -730,7 +730,7 @@
       "code": "PTMUTAN2025",
       "financialYear": "2025-26"
     },
-	{
+    {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
@@ -738,7 +738,7 @@
       "code": "PTMUTAN2024",
       "financialYear": "2024-25"
     },
-	{
+    {
       "fromDate": 1680307200000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
@@ -746,7 +746,7 @@
       "code": "PTMUTAN2023",
       "financialYear": "2023-24"
     },
-	{
+    {
       "fromDate": 1648771200000,
       "toDate": 1680307199000,
       "periodCycle": "ANNUAL",
@@ -754,7 +754,7 @@
       "code": "PTMUTAN2022",
       "financialYear": "2022-23"
     },
-	{
+    {
       "fromDate": 1617235201000,
       "toDate": 1648771199000,
       "periodCycle": "ANNUAL",
@@ -850,8 +850,7 @@
       "code": "FSMTRIPCHARGE10YRS",
       "financialYear": "2020-2030"
     },
-
-	{
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -859,7 +858,7 @@
       "code": "RTJTAN2023",
       "financialYear": "2016-30"
     },
-   {
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -1451,7 +1450,7 @@
       "code": "TXPTAN2024",
       "financialYear": "2021-30"
     },
-     {
+    {
       "fromDate": 1617215400000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -1715,7 +1714,7 @@
       "code": "TXPTAN2024",
       "financialYear": "2021-30"
     },
-     {
+    {
       "fromDate": 1617215400000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
@@ -1787,7 +1786,7 @@
       "code": "WS10YRS2019",
       "financialYear": "2019-29"
     },
-	{
+    {
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
@@ -1883,12 +1882,2036 @@
       "code": "CNDTRIPCHARGE10YRS",
       "financialYear": "2025-2035"
     },
-	  {
+    {
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "ACCOUNT_SECTION.MISC_FEE",
       "code": "ACC_MISC_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
+      "code": "ACC_INTEREST_SMART_SAVERTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
+      "code": "ACC_RECURRING_DEPOSITTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "code": "VETERINARY_MVO_SLAUGHTERHOUSE_LICENSE_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "code": "VETERINARY_MVO_DOG_REGISTRATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MILK_FINE",
+      "code": "VETERINARY_MVO_MILK_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MEAT_FINE",
+      "code": "VETERINARY_MVO_MEAT_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.PENALTY_FINE",
+      "code": "VETERINARY_MVO_PENALTY_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "code": "VETERINARY_MVO_TRANSPORT_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "code": "VETERINARY_MVO_CATTLE_IMPOUNDING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "code": "VETERINARY_MVO_RECOVERY_EMPLOYEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.BOVINE_MAINTENANCE_COST",
+      "code": "VETERINARY_MVO_BOVINE_MAINTENANCE_COSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.COMPOUNDING_FEE",
+      "code": "VETERINARY_MVO_COMPOUNDING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MISC_FEES",
+      "code": "VETERINARY_MVO_MISC_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER_SERVICE_MISC.PENALTY_FINE",
+      "code": "OTHER_MISC_PENALTY_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
+      "code": "OTHER_MISC_CONTRACT_CANCELTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER_SERVICE_MISC.MISC_FEES",
+      "code": "OTHER_MISC_MISC_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER_SERVICE_MISC.GST_AUCTION",
+      "code": "OTHER_MISC_GST_AUCTIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
+      "code": "OTHER_MISC_RECOVERY_CONTRACTORTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER_SERVICE_MISC.SALE_TENDER_PAPERS",
+      "code": "OTHER_MISC_SALE_TENDERTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER_SERVICE_MISC.SALE_ITEMS_SCRAP",
+      "code": "OTHER_MISC_SALE_SCRAPTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
+      "code": "PHE_JAL_SHAKTI_WATER_FILLING_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
+      "code": "KHILAFWARZI_RENT_GROUND_FIELDTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "KHILAFWARZI_SECTION.NOC_FEE",
+      "code": "KHILAFWARZI_NOC_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "KHILAFWARZI_SECTION.DEMOLITION_CHARGES",
+      "code": "KHILAFWARZI_DEMOLITIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "KHILAFWARZI_SECTION.TRANSPORT_RECOVERY",
+      "code": "KHILAFWARZI_TRANSPORT_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "KHILAFWARZI_SECTION.COPYING_FEE",
+      "code": "KHILAFWARZI_COPYING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "KHILAFWARZI_SECTION.FINE_PENALTY",
+      "code": "KHILAFWARZI_FINE_PENALTYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.CD_FINE",
+      "code": "HLT_CD_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.POLYTHENE_FINE",
+      "code": "HLT_POLYTHENE_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.OPEN_BURNING_FINE",
+      "code": "HLT_OPEN_BURN_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.SMOKING_FINE",
+      "code": "HLT_SMOKING_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.SPITTING_FINE",
+      "code": "HLT_SPITTING_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.INSANITARY_FINE",
+      "code": "HLT_INSANITARY_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.DAI_LICENSE_FEE",
+      "code": "HLT_DAI_LICENSETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.COMPOUNDING_FEE",
+      "code": "HLT_COMPOUNDING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
+      "code": "HLT_FOOD_DRUG_APP_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
+      "code": "HLT_LITTER_DEBRISTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.USER_CHARGES",
+      "code": "HLT_USER_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
+      "code": "HLT_BWG_RAIL_HEADTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.FLAG_REVENUE",
+      "code": "HLT_FLAG_REVENUETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.COPYING_FEES",
+      "code": "GA_RTI_COPYING_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
+      "code": "GA_RTI_RECOVERY_EMPLOYEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_CONTRACTOR",
+      "code": "GA_RTI_RECOVERY_CONTRACTORTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
+      "code": "GA_RTI_RECOVERY_TEMP_ADVANCETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
+      "code": "GA_RTI_APPLICATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.LICENSING_FEES",
+      "code": "BLD_LICENSING_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.PLAN_SANCTION_FEES",
+      "code": "BLD_PLAN_SANCTION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.BETTERMENT_CHARGES",
+      "code": "BLD_BETTERMENT_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.REGULARIZATION_FEES",
+      "code": "BLD_REGULARIZATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.APPLICATION_FEES",
+      "code": "BLD_APPLICATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.COPYING_FEE",
+      "code": "BLD_COPYING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.COMPOUNDING_FEES",
+      "code": "BLD_COMPOUNDING_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.SANITATION_CHARGES",
+      "code": "BLD_SANITATION_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.HOUSE_LOAN_INTEREST",
+      "code": "BLD_HOUSE_LOAN_INTERESTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
+      "code": "BLD_MULBA_SECURITY_DEPOSITTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
+      "code": "BLD_SEPTIC_TANK_DEPOSITTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.REG_FEE",
+      "code": "BD_REG_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.VITAL_STATS",
+      "code": "BD_VITAL_STATS_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.COPYING_FEE",
+      "code": "BD_COPYING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_MARKETSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_SHOPPING_COMPLEXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_COMMUNITY_HALLTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_STADIUMTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_TOWN_HALLTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_GROUNDS_FIELDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_MUNICIPAL_FLATSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_GARAGE_GODOWNTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_CANTEENTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_SHOPTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_BUILDINGTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_UTENSILSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_OFFICE_GODOWNTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_QUARTERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_LEASE_RENTALSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_MACHINERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_MISCTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_WATER_METERTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_LAPSED_DEPOSIT_RENTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_IJARA_PONDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_ELECTRICITY_BILLTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_AUCTION_MPL_SHOPSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_DUTY_MUNICIPAL_PROPERTIESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_TRADETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_DRAFTSMANTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_HAWKERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_WASHERMENTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_SHOPTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_CASUAL_VENDORTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_PLUMBINGTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_GHAT_BOATTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_POUNDINGTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_BUTCHERS_MEATTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_MEAT_TRADINGTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_BARTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_PONDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_RICKSHAW_CARTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_CABLE_TVTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_OTHERTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_REV_SECTIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_TOWERTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TAX_RESIDENTIALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TAX_COMMERCIALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TAX_VACANT_LANDTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_SERVICE_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TAX_REMISSIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_PENALTY_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TRANSFER_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_PRIOR_PERIODTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_COMPENSATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TOWN_DEV_CESSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_EDU_CESSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TRANSFER_DUTYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_METERED_DOMESTICTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_METERED_COMMERCIALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_BULK_FILTEREDTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_BULK_UNFILTEREDTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_FIXED_DOMESTICTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_FIXED_COMMERCIALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_TAX_GENERALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_CONNECTION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_SUPPLYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_BULK_SALETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_PHE_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_REMISSIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_PRIOR_PERIODTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_GARBAGE_RUBBISHTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_TREE_GUARDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_FRUITSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_GRASSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_NURSERY_PLANTSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_FLOWERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_SILTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_COMPOSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_OTHER_PRODUCTSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_PASSBOOKSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_FORMSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_DATATAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_PLANSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_MAPSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_OLD_NEWSPAPERTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_CIVIL_STORETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_OLD_NEWSPAPER_ALTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_OBSOLETE_STORESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_OBSOLETE_ASSETSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_AUCTION_ANIMALSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_PARKSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_PLAYGROUNDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_SWIMMING_POOLTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_ZOOTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_MUSEUMTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_LIBRARYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_PARKING_LOTSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_LAND_HOARDINGSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_BUS_SHELTERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_NEON_STANDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_PRIVATE_LANDTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_FOOTPATH_RAILINGTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_TREE_GUARDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_OTHERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_TEMP_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_EMPANELMENT_CONTRACTORSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_INSPECTION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_CHAITRA_MELATAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_STACKING_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_NOC_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_PLAN_COPY_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_ENCROACHMENT_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_AGREEMENT_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_MUTATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_CATTLE_POUNDINGTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_EDUCATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_SPORTS_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_NOTICE_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_WARRANT_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_DRAIN_CONNECTIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_ELECTRICITY_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_DELAY_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_CARTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_PATIENTSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_PROFESSIONALSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_OTHERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_REV_SECTIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "code": "REV_HIRE_VEHICLESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "code": "REV_HIRE_ROAD_ROLLERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "code": "REV_HIRE_TOOLS_EQUIPTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "code": "REV_HIRE_MACHINERIESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_SPECIAL_SANITARY_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_LIGHTING_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_CARRIAGE_CART_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_ANIMAL_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_PROFESSIONAL_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_DEVELOPMENT_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_TOLL_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_ENTERTAINMENT_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_OIL_DEPOT_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_TAX_REMISSIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_JKPCC_REVENUETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_CRACKER_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_TELEPHONY_INCOMETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_PRIOR_PERIOD_ALLTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_PRIOR_PERIOD_OTHERTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_BETTERMENT_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_APPLICATION_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_COPYING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_GST_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_COMPOUNDING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_MISC_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_TRANSPORT_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_TCS_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_COMPENSATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_CONCESSIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_DEPOSIT_FORFEITEDTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_LAPSED_CONTRACTORTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_LAPSED_OTHERSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_FUNERAL_VANTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_PAY_USE_TOILETSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_PARKING_CONTRACTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_SPECIAL_SANITARYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_CREMATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_PARKING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_SANITATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_RAILHEAD_COMMERCIALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_NARWALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_NARWAL_COMMTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_COMMERCIALTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_WARD_RAILHEADTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_BULK_WASTETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_DEVELOPMENTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_TRANSPORTATION_CTOTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_DEPOSIT_WORK_PERCENTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_ROAD_DAMAGE_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_OTHER_SERVICETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_PLAN_PREPARATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_AMBULANCE_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_URINATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_FAECAL_SLUDGETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_OPEN_DEFECATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_COMPOUNDING_CTOTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_RECOVERY_EMPLOYEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_COURT_PENALTYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_PROFESSIONAL_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_OTHER_PENALTIESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_UNAUTHORIZED_CONSTRUCTIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_UNAUTHORIZED_LITTERINGTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_CONTRACTORSTAX",
       "financialYear": "2016-30"
     }
   ]
