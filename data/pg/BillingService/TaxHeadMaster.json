@@ -2931,7 +2931,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "BD_REGISTRATION.REG_FEE",
+      "service": "BD_REGISTRATION.VITAL_STATS",
       "name": "Birth & Death Registration Fees (Vital Statistics)",
       "code": "BD_VITAL_STATS_FEE",
       "isDebit": false,
@@ -2941,7 +2941,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "BD_REGISTRATION.REG_FEE",
+      "service": "BD_REGISTRATION.COPYING_FEE",
       "name": "Copying Fee Birth & Death Section",
       "code": "BD_COPYING_FEE",
       "isDebit": false,
