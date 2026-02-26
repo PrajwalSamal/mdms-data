@@ -806,6 +806,10 @@
         {
             "format": "EST-[CITY.CODE]-[seq_estate_management_asset_id]",
             "idname": "estate.management.asset.id"
+		},
+		{
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "account_section.misc_fee.receipt.id"
         }
     ]
 }

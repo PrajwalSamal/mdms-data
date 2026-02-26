@@ -1882,6 +1882,14 @@
       "service": "CND.TRIP_CHARGES",
       "code": "CNDTRIPCHARGE10YRS",
       "financialYear": "2025-2035"
+    },
+	  {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.MISC_FEE",
+      "code": "ACC_MISC_FEETAX",
+      "financialYear": "2016-30"
     }
   ]
 }
