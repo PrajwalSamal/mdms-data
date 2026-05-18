@@ -1062,7 +1062,7 @@
       "type": "Finance"
     },
     {
-      "businessService": "Building Section.Licensing fees Building",
+      "businessService": "Building Section.License Fee/ Architect fee/ Draftsman License Fee",
       "code": "BUILDING_SECTION.LICENSING_FEES",
       "collectionModesNotAllowed": [
         "DD"
