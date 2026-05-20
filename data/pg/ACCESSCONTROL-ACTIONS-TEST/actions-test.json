@@ -3244,6 +3244,54 @@
       "path": "PGR Report"
     },
     {
+      "id": 3502,
+      "name": "Finance All ULB Report",
+      "url": "url",
+      "displayName": "Finance All ULB Report",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-fin-reports",
+      "enabled": true,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "ULB Reports.billCountReport",
+      "navigationURL": "report/rainmaker-fin/billCountReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 3500,
+      "name": "billCountReport",
+      "url": "/report/rainmaker-fin/_get",
+      "displayName": "Finance Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "Finance Report"
+    },
+    {
+      "id": 3501,
+      "name": "billCountReport",
+      "url": "/report/rainmaker-fin/metadata/_get",
+      "displayName": "PT Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "Finance Report"
+    },
+    {
+      "id": 9999,
+      "name": "PGR LME Report",
+      "url": "/customization/protected/reports/lmereport",
+      "displayName": "PGR LME Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "PGRCUSTOMREPORT",
+      "code": "null",
+      "path": "PGR Report"
+    },
+    {
       "id": 1577,
       "name": "Assess New Property",
       "url": "url",
