@@ -87,6 +87,24 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3500,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3501,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3502,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 419,
       "actioncode": "",
@@ -13571,6 +13589,24 @@
     {
       "rolecode": "STADMIN",
       "actionid": 1886,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3500,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3501,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3502,
       "actioncode": "",
       "tenantId": "pg"
     },
