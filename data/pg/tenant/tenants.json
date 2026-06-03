@@ -3228,6 +3228,86 @@
       "contactNumber": "01951-266789"
     },
     {
+      "code": "pg.aishmuquam",
+      "name": "Aishmuquam Municipal Committee",
+      "description": "Aishmuquam Municipal Committee",
+      "pincode": [
+        191209,
+        1913408
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ai.aishmuquam@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "isParent": false,
+      "parent": "pg.kashmir",
+      "city": {
+        "name": "Aishmuquam",
+        "localName": null,
+        "districtCode": "ANANTNAG",
+        "districtName": "Anantnag",
+        "districtTenantCode": "pg.aishmuquam",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.7634,
+        "latitude": 33.9001,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2063",
+        "ddrName": "DDR B"
+      },
+      "address": "Aishmuquam Municipal Committee",
+      "contactNumber": "01951-266700"
+    },
+    {
+      "code": "pg.devsar",
+      "name": "Devsar Municipal Committee",
+      "description": "Devsar Municipal Committee",
+      "pincode": [
+        1912090,
+        1913401
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "de.devsar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "isParent": false,
+      "parent": "pg.kashmir",
+      "city": {
+        "name": "Devsar",
+        "localName": null,
+        "districtCode": "KULGAM",
+        "districtName": "Kulgam",
+        "districtTenantCode": "pg.devsar",
+        "blockname": "",
+        "regionName": "KASHMIR",
+        "ulbGrade": "MUNICIPALITY",
+        "longitude": 74.7634,
+        "latitude": 33.9001,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2064",
+        "ddrName": "DDR B"
+      },
+      "address": "Devsar Municipal Committee",
+      "contactNumber": "01999-266700"
+    },
+    {
       "code": "pg",
       "name": "State",
       "description": "State",
