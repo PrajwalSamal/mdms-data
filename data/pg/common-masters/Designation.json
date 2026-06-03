@@ -211,6 +211,12 @@
       "description": "HEAD ASSISTANT",
       "code": "HA",
       "active": true
+    },
+    {
+      "name": "Director",
+      "description": "Director",
+      "code": "DIR",
+      "active": true
     }
   ]
 }
