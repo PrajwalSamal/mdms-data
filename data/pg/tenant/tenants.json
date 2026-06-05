@@ -3307,6 +3307,48 @@
       "address": "Devsar Municipal Committee",
       "contactNumber": "01999-266700"
     },
+
+    {
+      "code": "pg.testing",
+      "name": "Internal",
+      "description": "Internal",
+      "pincode": [
+        19120998,
+        19134013
+      ],
+      "logoId": "https://www.logotypes101.com/logos/895/297FE9D7483001296D48B77E284B54B8/india_crest_var2.png",
+      "imageId": null,
+      "domainUrl": "https://home.jk.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "in.internal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "isParent": true,
+      "parent": null,
+      "city": {
+        "name": "Internal",
+        "localName": null,
+        "districtCode": "INTERNAL",
+        "districtName": "Internal",
+        "districtTenantCode": "pg.testing",
+        "blockname": "",
+        "regionName": "INTERNAL",
+        "ulbGrade": "TESTING",
+        "longitude": 74.7634,
+        "latitude": 33.9001,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2064",
+        "ddrName": "DDR B"
+      },
+      "address": "Testing",
+      "contactNumber": "01999-266700"
+    },
+    
     {
       "code": "pg",
       "name": "State",
