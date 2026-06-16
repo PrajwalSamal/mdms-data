@@ -3282,9 +3282,9 @@
     },
     {
       "id": 3505,
-      "name": "Finance All ULB Report",
+      "name": "Finance All ULB Receipt Report",
       "url": "url",
-      "displayName": "Finance All ULB Report",
+      "displayName": "Finance All ULB Receipt Report",
       "orderNumber": 1,
       "parentModule": "rainmaker-fin-reports",
       "enabled": true,
