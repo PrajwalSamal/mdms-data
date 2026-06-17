@@ -854,10 +854,6 @@
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bd_registration.copying_fee.receipt.id"
         },
-                {
-            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bd_registration.all.receipt.id"
-        },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "building_section.licensing_fees.receipt.id"
@@ -1041,10 +1037,6 @@
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "phe_jal_shakti.water_filling_charges.receipt.id"
-        },
-        {
-            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "phe_jal_shakti.all.receipt.id"
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
