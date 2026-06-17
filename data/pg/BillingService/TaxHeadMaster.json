@@ -3054,7 +3054,7 @@
       "service": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
       "name": "Deposite of Septic Tank Security",
       "code": "BLD_SEPTIC_TANK_DEPOSIT",
-      "isDebit": true,
+      "isDebit": false,
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
