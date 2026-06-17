@@ -3429,6 +3429,16 @@
       "order": "0",
       "isRequired": false
     },
+        {
+      "category": "CHARGES",
+      "service": "PHE_JAL_SHAKTI.ALL",
+      "name": "Water Filling Charges- PHE Jal Shakti Department",
+      "code": "PHE_JAL_SHAKTI_WATER_FILLING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
     {
       "category": "CHARGES",
       "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",

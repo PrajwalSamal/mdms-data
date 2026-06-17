@@ -2166,6 +2166,14 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "PHE_JAL_SHAKTI.ALL",
+      "code": "PHE_JAL_SHAKTI_WATER_FILLING_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
       "code": "KHILAFWARZI_RENT_GROUND_FIELDTAX",
       "financialYear": "2016-30"
