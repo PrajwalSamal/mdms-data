@@ -367,6 +367,13 @@
 		"tenantId": "pg.jmc"
 	},
 	{
+		"businessDetails": "PHE_JAL_SHAKTI.ALL",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
 		"businessDetails": "REV_GRANTS",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",

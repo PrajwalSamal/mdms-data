@@ -1044,6 +1044,10 @@
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "phe_jal_shakti.all.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "transport_section.transport_recovery_charges.receipt.id"
         },
         {
