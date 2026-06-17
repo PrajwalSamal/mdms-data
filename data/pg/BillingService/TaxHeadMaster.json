@@ -2931,9 +2931,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "BD_REGISTRATION.ALL",
+      "name": "Registration Fee Birth & Death Section",
+      "code": "BD_REG_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "BD_REGISTRATION.VITAL_STATS",
       "name": "Birth & Death Registration Fees (Vital Statistics)",
       "code": "BD_VITAL_STATS_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+        {
+      "category": "CHARGES",
+      "service": "BD_REGISTRATION.ALL",
+      "name": "Copying Fee Birth & Death Section",
+      "code": "BD_COPYING_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
