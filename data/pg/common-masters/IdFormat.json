@@ -854,6 +854,10 @@
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bd_registration.copying_fee.receipt.id"
         },
+                {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bd_registration.all.receipt.id"
+        },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "building_section.licensing_fees.receipt.id"
