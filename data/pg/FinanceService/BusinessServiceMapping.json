@@ -171,18 +171,6 @@
       "validTo": 2345678901
     },
     {
-      "code": "BD_REGISTRATION.ALL",
-      "voucherCreationEnabled": true,
-      "fund": "1000",
-      "function": "3099",
-      "department": "DEPT_25",
-      "functionary": "",
-      "scheme": "",
-      "subscheme": "",
-      "validFrom": 1234567890,
-      "validTo": 2345678901
-    },
-    {
       "code": "BUILDING_SECTION.LICENSING_FEES",
       "voucherCreationEnabled": true,
       "fund": "1000",
@@ -796,18 +784,6 @@
     },
     {
       "code": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
-      "voucherCreationEnabled": true,
-      "fund": "1000",
-      "function": "3099",
-      "department": "DEPT_25",
-      "functionary": "",
-      "scheme": "",
-      "subscheme": "",
-      "validFrom": 1234567890,
-      "validTo": 2345678901
-    },
-    {
-      "code": "PHE_JAL_SHAKTI.ALL",
       "voucherCreationEnabled": true,
       "fund": "1000",
       "function": "3099",

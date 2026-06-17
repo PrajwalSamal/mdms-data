@@ -1051,16 +1051,6 @@
       "isActive": true,
       "type": "Finance"
     },
-        {
-      "businessService": "Birth & Death Registration Section.All",
-      "code": "BD_REGISTRATION.ALL",
-      "collectionModesNotAllowed": [],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Finance"
-    },
     {
       "businessService": "Birth & Death Registration Section.Copying Fee Birth and Death Section",
       "code": "BD_REGISTRATION.COPYING_FEE",
@@ -1589,18 +1579,6 @@
     {
       "businessService": "PHE Jal Shakti Department.Water Filling Charges- PHE Jal Shakti Department",
       "code": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Finance"
-    },
-        {
-      "businessService": "PHE Jal Shakti Department.All",
-      "code": "PHE_JAL_SHAKTI.ALL",
       "collectionModesNotAllowed": [
         "DD"
       ],
