@@ -3239,6 +3239,16 @@
       "order": "0",
       "isRequired": false
     },
+        {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_UC",
+      "name": "Household User Charges",
+      "code": "HLT_HOUSE_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
     {
       "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",

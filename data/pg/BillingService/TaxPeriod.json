@@ -2318,6 +2318,14 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_UC",
+      "code": "HLT_HOUSE_UC",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.COPYING_FEES",
       "code": "GA_RTI_COPYING_FEESTAX",
       "financialYear": "2016-30"
