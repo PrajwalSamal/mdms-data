@@ -1384,6 +1384,16 @@
       "isActive": true,
       "type": "Finance"
     },
+        {
+      "businessService": "Health Section.Household User Charges",
+      "code": "HEALTH_SECTION.HOUSE_UC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
     {
       "businessService": "Khilafwarzi Section.Rent from Ground and Field",
       "code": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",

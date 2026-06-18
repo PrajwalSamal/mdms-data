@@ -972,6 +972,10 @@
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "health_section.house_uc.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "khilafwarzi_section.rent_ground_field.receipt.id"
         },
         {
