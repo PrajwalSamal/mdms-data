@@ -1455,6 +1455,26 @@
       "type": "Finance"
     },
     {
+      "businessService": "Health Section.Open Defecation Fine",
+      "code": "HEALTH_SECTION.HOUSE_OPEN_FINE",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Faecal Sludge Fine",
+      "code": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
       "businessService": "Khilafwarzi Section.Rent from Ground and Field",
       "code": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
       "collectionModesNotAllowed": [
