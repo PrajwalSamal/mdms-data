@@ -248,6 +248,48 @@
 		"tenantId": "pg.jmc"
 	},
 	{
+		"businessDetails": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "HEALTH_SECTION.HOUSE_NAR_UC",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "HEALTH_SECTION.HOUSE_COMM_UC",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "HEALTH_SECTION.HOUSE_BULK_WC",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
 		"businessDetails": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",

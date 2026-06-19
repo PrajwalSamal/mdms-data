@@ -1395,6 +1395,66 @@
       "type": "Finance"
     },
     {
+      "businessService": "Health Section.Rail Head Commercial User Charges",
+      "code": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Narwal User Charges",
+      "code": "HEALTH_SECTION.HOUSE_NAR_UC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Narwal Commercial User Charges",
+      "code": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Commercial User Charges",
+      "code": "HEALTH_SECTION.HOUSE_COMM_UC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Ward Rail Head Sanitation Charges",
+      "code": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.Bulk Waste Charges",
+      "code": "HEALTH_SECTION.HOUSE_BULK_WC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
       "businessService": "Khilafwarzi Section.Rent from Ground and Field",
       "code": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
       "collectionModesNotAllowed": [
