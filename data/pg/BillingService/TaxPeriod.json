@@ -2374,6 +2374,22 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_OPEN_FINE",
+      "code": "HLT_HOUSE_OPEN_FE",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
+      "code": "HLT_HOUSE_FAL_FE",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.COPYING_FEES",
       "code": "GA_RTI_COPYING_FEESTAX",
       "financialYear": "2016-30"

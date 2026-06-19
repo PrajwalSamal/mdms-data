@@ -3299,11 +3299,31 @@
       "order": "0",
       "isRequired": false
     },
-        {
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_BULK_WC",
       "name": "Bulk waste charges",
       "code": "HLT_HOUSE_BL_WC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_OPEN_FINE",
+      "name": "Open Defecation Fine",
+      "code": "HLT_HOUSE_OPEN_FE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+        {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
+      "name": "Faecal Sludge Fine",
+      "code": "HLT_HOUSE_FAL_FE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
