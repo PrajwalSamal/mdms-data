@@ -531,6 +531,78 @@
       "validTo": 2345678901
     },
     {
+      "code": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "HEALTH_SECTION.HOUSE_NAR_UC",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "HEALTH_SECTION.HOUSE_COMM_UC",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "HEALTH_SECTION.HOUSE_BULK_WC",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
       "code": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
       "voucherCreationEnabled": true,
       "fund": "1000",

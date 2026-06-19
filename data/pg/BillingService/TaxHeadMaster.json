@@ -3251,6 +3251,66 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+      "name": "Rail Head Commercial User Charges",
+      "code": "HLT_HOUSE_COMM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_NAR_UC",
+      "name": "Narwal User Charges",
+      "code": "HLT_HOUSE_NA_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+      "name": "Narwal Commercial User Charges",
+      "code": "HLT_HOUSE_NA_COMM_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_COMM_UC",
+      "name": "Commercial User Charges",
+      "code": "HLT_HOUSE_COMM_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+      "name": "Ward Rail Head Sanitation Charges",
+      "code": "HLT_HOUSE_WARD_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+        {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.HOUSE_BULK_WC",
+      "name": "Bulk waste charges",
+      "code": "HLT_HOUSE_BL_WC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
       "name": "Rent from Ground and Field- Khilafwarzi Section",
       "code": "KHILAFWARZI_RENT_GROUND_FIELD",

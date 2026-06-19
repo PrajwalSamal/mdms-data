@@ -2326,6 +2326,54 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+      "code": "HLT_HOUSE_COMM",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_NAR_UC",
+      "code": "HLT_HOUSE_NA_UC",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+      "code": "HLT_HOUSE_NA_COMM_UC",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_COMM_UC",
+      "code": "HLT_HOUSE_COMM_UC",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+      "code": "HLT_HOUSE_WARD_UC",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "HEALTH_SECTION.HOUSE_BULK_WC",
+      "code": "HLT_HOUSE_BL_WC",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.COPYING_FEES",
       "code": "GA_RTI_COPYING_FEESTAX",
       "financialYear": "2016-30"
