@@ -844,6 +844,10 @@
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bd_registration.all.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bd_registration.reg_fee.receipt.id"
         },
         {

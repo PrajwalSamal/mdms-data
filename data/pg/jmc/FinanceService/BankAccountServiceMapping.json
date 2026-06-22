@@ -38,6 +38,13 @@
 		"tenantId": "pg.jmc"
 	},
 	{
+		"businessDetails": "BD_REGISTRATION.ALL",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
 		"businessDetails": "BUILDING_SECTION.APPLICATION_FEES",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
