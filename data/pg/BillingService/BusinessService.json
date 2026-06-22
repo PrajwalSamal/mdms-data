@@ -1204,6 +1204,18 @@
       "type": "Finance"
     },
     {
+      "businessService": "General Administration- RTI.All",
+      "code": "GENERAL_ADMIN_RTI.ALL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
       "businessService": "General Administration- RTI.Copying Fees RTI",
       "code": "GENERAL_ADMIN_RTI.COPYING_FEES",
       "collectionModesNotAllowed": [

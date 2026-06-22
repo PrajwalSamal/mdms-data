@@ -327,6 +327,18 @@
       "validTo": 2345678901
     },
     {
+      "code": "GENERAL_ADMIN_RTI.ALL",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
       "code": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
       "voucherCreationEnabled": true,
       "fund": "1000",

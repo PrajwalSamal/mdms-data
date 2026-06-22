@@ -3091,9 +3091,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "name": "Copying Fees RTI",
+      "code": "GA_RTI_ALL_COPYING_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
       "name": "Recovery from Employees- General Administration- RTI",
       "code": "GA_RTI_RECOVERY_EMPLOYEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "name": "Recovery from Employees- General Administration- RTI",
+      "code": "GA_RTI_ALL_RECOVERY_EMPLOYEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3111,6 +3131,16 @@
     },
     {
       "category": "CHARGES",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "name": "Recovery from Contractor- General Administration- RTI",
+      "code": "GA_RTI_ALL_RECOVERY_CONTRACTOR",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
       "name": "Recovery of Temporary Advance Payment- General Administration- RTI",
       "code": "GA_RTI_RECOVERY_TEMP_ADVANCE",
@@ -3121,9 +3151,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "name": "Recovery of Temporary Advance Payment- General Administration- RTI",
+      "code": "GA_RTI_ALL_RECOVERY_TEMP_ADVANCE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
       "name": "Application Fees- General Administration- RTI",
       "code": "GA_RTI_APPLICATION_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "name": "Application Fees- General Administration- RTI",
+      "code": "GA_RTI_ALL_APPLICATION_FEES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
