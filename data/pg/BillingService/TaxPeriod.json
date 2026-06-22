@@ -2527,7 +2527,7 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "BD_REGISTRATION.ALL",
-      "code": "BD_REG_FEETAX",
+      "code": "BD_ALL_REG_FEETAX",
       "financialYear": "2016-30"
     },
     {
@@ -2551,7 +2551,7 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "BD_REGISTRATION.ALL",
-      "code": "BD_COPYING_FEETAX",
+      "code": "BD_ALL_COPYING_FEETAX",
       "financialYear": "2016-30"
     },
     {
