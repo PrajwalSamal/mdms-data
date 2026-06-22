@@ -2398,8 +2398,24 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "code": "GA_RTI_ALL_COPYING_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
       "code": "GA_RTI_RECOVERY_EMPLOYEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "code": "GA_RTI_ALL_RECOVERY_EMPLOYEETAX",
       "financialYear": "2016-30"
     },
     {
@@ -2414,6 +2430,14 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "code": "GA_RTI_ALL_RECOVERY_CONTRACTORTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
       "code": "GA_RTI_RECOVERY_TEMP_ADVANCETAX",
       "financialYear": "2016-30"
@@ -2422,8 +2446,24 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "code": "GA_RTI_ALL_RECOVERY_TEMP_ADVANCETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
       "code": "GA_RTI_APPLICATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.ALL",
+      "code": "GA_RTI_ALL_APPLICATION_FEESTAX",
       "financialYear": "2016-30"
     },
     {

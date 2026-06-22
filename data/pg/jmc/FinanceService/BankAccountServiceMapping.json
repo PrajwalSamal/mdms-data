@@ -129,6 +129,13 @@
 		"tenantId": "pg.jmc"
 	},
 	{
+		"businessDetails": "GENERAL_ADMIN_RTI.ALL",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
 		"businessDetails": "GENERAL_ADMIN_RTI.COPYING_FEES",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",

@@ -909,6 +909,10 @@
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "general_admin_rti.all.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "general_admin_rti.recovery_employee.receipt.id"
         },
         {
