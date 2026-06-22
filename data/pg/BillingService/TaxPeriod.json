@@ -2526,6 +2526,14 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.ALL",
+      "code": "BD_REG_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "BD_REGISTRATION.VITAL_STATS",
       "code": "BD_VITAL_STATS_FEETAX",
       "financialYear": "2016-30"
@@ -2535,6 +2543,14 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "BD_REGISTRATION.COPYING_FEE",
+      "code": "BD_COPYING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.ALL",
       "code": "BD_COPYING_FEETAX",
       "financialYear": "2016-30"
     },
