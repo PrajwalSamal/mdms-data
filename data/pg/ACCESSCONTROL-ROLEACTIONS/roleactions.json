@@ -11553,7 +11553,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "HRMS_ADMIN",
       "actionid": 1773,
       "actioncode": "",
       "tenantId": "pg"
@@ -11649,7 +11649,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "HRMS_ADMIN",
       "actionid": 1779,
       "actioncode": "",
       "tenantId": "pg"
@@ -20992,18 +20992,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 2178,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2179,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 2179,
       "actioncode": "",
@@ -24198,12 +24186,6 @@
     {
       "rolecode": "BPAREG_DOC_VERIFIER",
       "actionid": 698,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2318,
       "actioncode": "",
       "tenantId": "pg"
     },
