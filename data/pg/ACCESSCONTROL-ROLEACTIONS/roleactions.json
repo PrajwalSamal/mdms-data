@@ -106,6 +106,24 @@
     },
     {
       "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3506,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3507,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3508,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 3503,
       "actioncode": "",
       "tenantId": "pg"
@@ -13666,6 +13684,24 @@
     },
     {
       "rolecode": "STADMIN",
+      "actionid": 3506,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3507,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3508,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
       "actionid": 3503,
       "actioncode": "",
       "tenantId": "pg"
@@ -13682,6 +13718,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+    
     {
       "rolecode": "STADMIN",
       "actionid": 1958,

@@ -3281,6 +3281,43 @@
       "path": "Finance Report"
     },
     {
+      "id": 3506,
+      "name": "Head Wise Count Report",
+      "url": "url",
+      "displayName": "Head Wise Count Report",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-fin-reports",
+      "enabled": true,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "ULB Reports.headwiseCountReport",
+      "navigationURL": "report/rainmaker-fin/headwiseCountReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 3507,
+      "name": "headwiseCountReport",
+      "url": "/report/rainmaker-fin/_get",
+      "displayName": "Finance Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "Finance Report"
+    },
+    {
+      "id": 3508,
+      "name": "headwiseCountReport",
+      "url": "/report/rainmaker-fin/metadata/_get",
+      "displayName": "Fin Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "Finance Report"
+    },
+    {
       "id": 3505,
       "name": "Finance All ULB Receipt Report",
       "url": "url",
