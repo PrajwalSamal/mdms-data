@@ -836,6 +836,10 @@
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "account_section.all.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "account_section.interest_smart_saver.receipt.id"
         },
         {
@@ -862,6 +866,10 @@
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "building_section.licensing_fees.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "building_section.all.receipt.id"
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
@@ -930,6 +938,10 @@
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "health_section.cd_fine.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "health_section.all.receipt.id"
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
@@ -1021,6 +1033,10 @@
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "khilafwarzi_section.all.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "khilafwarzi_section.noc_fee.receipt.id"
         },
         {
@@ -1073,6 +1089,10 @@
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "other_service_misc.all.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "other_service_misc.sale_tender_papers.receipt.id"
         },
         {
@@ -1086,6 +1106,10 @@
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "transport_section.transport_recovery_charges.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "transport_section.all.receipt.id"
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
@@ -1110,6 +1134,10 @@
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "veterinary_mvo.slaughterhouse_license_fees.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "veterinary_mvo.all.receipt.id"
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",

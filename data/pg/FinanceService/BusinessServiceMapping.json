@@ -111,6 +111,18 @@
       "validTo": 2345678901
     },
     {
+      "code": "ACCOUNT_SECTION.ALL",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
       "code": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
       "voucherCreationEnabled": true,
       "fund": "1000",
@@ -184,6 +196,18 @@
     },
     {
       "code": "BUILDING_SECTION.LICENSING_FEES",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "BUILDING_SECTION.ALL",
       "voucherCreationEnabled": true,
       "fund": "1000",
       "function": "3099",
@@ -388,6 +412,18 @@
     },
     {
       "code": "HEALTH_SECTION.CD_FINE",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "HEALTH_SECTION.ALL",
       "voucherCreationEnabled": true,
       "fund": "1000",
       "function": "3099",
@@ -638,7 +674,7 @@
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
-        {
+    {
       "code": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
       "voucherCreationEnabled": true,
       "fund": "1000",
@@ -652,6 +688,18 @@
     },
     {
       "code": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "KHILAFWARZI_SECTION.ALL",
       "voucherCreationEnabled": true,
       "fund": "1000",
       "function": "3099",
@@ -843,6 +891,18 @@
       "validTo": 2345678901
     },
     {
+      "code": "OTHER_SERVICE_MISC.ALL",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
       "code": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
       "voucherCreationEnabled": true,
       "fund": "1000",
@@ -939,6 +999,18 @@
       "validTo": 2345678901
     },
     {
+      "code": "TRANSPORT_SECTION.ALL",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
       "code": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
       "voucherCreationEnabled": true,
       "fund": "1000",
@@ -1000,6 +1072,18 @@
     },
     {
       "code": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "voucherCreationEnabled": true,
+      "fund": "1000",
+      "function": "3099",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "code": "VETERINARY_MVO.ALL",
       "voucherCreationEnabled": true,
       "fund": "1000",
       "function": "3099",

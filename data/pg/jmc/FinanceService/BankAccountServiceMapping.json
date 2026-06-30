@@ -10,6 +10,13 @@
 		"tenantId": "pg.jmc"
 	},
 	{
+		"businessDetails": "ACCOUNT_SECTION.ALL",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
 		"businessDetails": "ACCOUNT_SECTION.MISC_FEE",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
@@ -46,6 +53,13 @@
 	},
 	{
 		"businessDetails": "BUILDING_SECTION.APPLICATION_FEES",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "BUILDING_SECTION.ALL",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
@@ -165,6 +179,13 @@
 	},
 	{
 		"businessDetails": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "HEALTH_SECTION.ALL",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
@@ -318,6 +339,13 @@
 		"tenantId": "pg.jmc"
 	},
 	{
+		"businessDetails": "KHILAFWARZI_SECTION.ALL",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
 		"businessDetails": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
@@ -382,6 +410,13 @@
 	},
 	{
 		"businessDetails": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "OTHER_SERVICE_MISC.ALL",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",
@@ -535,6 +570,13 @@
 		"tenantId": "pg.jmc"
 	},
 	{
+		"businessDetails": "TRANSPORT_SECTION.ALL",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
 		"businessDetails": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
@@ -571,6 +613,13 @@
 	},
 	{
 		"businessDetails": "VETERINARY_MVO.BOVINE_MAINTENANCE_COST",
+		"bankAccount": "0097010100002267",
+		"bank": "J&K Bank Town Hall",
+		"bankBranch": "6305",
+		"tenantId": "pg.jmc"
+	},
+	{
+		"businessDetails": "VETERINARY_MVO.ALL",
 		"bankAccount": "0097010100002267",
 		"bank": "J&K Bank Town Hall",
 		"bankBranch": "6305",

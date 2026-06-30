@@ -2901,6 +2901,16 @@
     },
     {
       "category": "CHARGES",
+      "service": "ACCOUNT_SECTION.ALL",
+      "name": "Miscellaneous Fee Acc. Sec.",
+      "code": "ACC_ALL_MISC_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
       "name": "Interest from Bank on Smart Saver Acc.",
       "code": "ACC_INTEREST_SMART_SAVER",
@@ -2911,9 +2921,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "ACCOUNT_SECTION.ALL",
+      "name": "Interest from Bank on Smart Saver Acc.",
+      "code": "ACC_ALL_INTEREST_SMART_SAVER",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
       "name": "Recurring Deposit Accounts",
       "code": "ACC_RECURRING_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ACCOUNT_SECTION.ALL",
+      "name": "Recurring Deposit Accounts",
+      "code": "ACC_ALL_RECURRING_DEPOSIT",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -2981,9 +3011,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Licensing fees Building",
+      "code": "BLD_ALL_LICENSING_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "BUILDING_SECTION.PLAN_SANCTION_FEES",
       "name": "Fees from sanction of building plans",
       "code": "BLD_PLAN_SANCTION_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Fees from sanction of building plans",
+      "code": "BLD_ALL_PLAN_SANCTION_FEES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3001,9 +3051,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Betterment Charges",
+      "code": "BLD_ALL_BETTERMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "BUILDING_SECTION.REGULARIZATION_FEES",
       "name": "Building construction regularization fees",
       "code": "BLD_REGULARIZATION_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Building construction regularization fees",
+      "code": "BLD_ALL_REGULARIZATION_FEES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3021,9 +3091,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Application fees",
+      "code": "BLD_ALL_APPLICATION_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "BUILDING_SECTION.COPYING_FEE",
       "name": "Copying Fee Building Section",
       "code": "BLD_COPYING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Copying Fee Building Section",
+      "code": "BLD_ALL_COPYING_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3041,9 +3131,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Compounding fees- Building Section",
+      "code": "BLD_ALL_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "BUILDING_SECTION.SANITATION_CHARGES",
       "name": "Sanitation Charges Building Sec",
       "code": "BLD_SANITATION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Sanitation Charges Building Sec",
+      "code": "BLD_ALL_SANITATION_CHARGES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3061,6 +3171,16 @@
     },
     {
       "category": "ADVANCE_COLLECTION",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Interest on House Building Loans",
+      "code": "BLD_ALL_HOUSE_LOAN_INTEREST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
       "service": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
       "name": "Deposite for Mulba Security",
       "code": "BLD_MULBA_SECURITY_DEPOSIT",
@@ -3071,9 +3191,29 @@
     },
     {
       "category": "ADVANCE_COLLECTION",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Deposite for Mulba Security",
+      "code": "BLD_ALL_MULBA_SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
       "service": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
       "name": "Deposite of Septic Tank Security",
       "code": "BLD_SEPTIC_TANK_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "Deposite of Septic Tank Security",
+      "code": "BLD_ALL_SEPTIC_TANK_DEPOSIT",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3191,9 +3331,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "C&D Fine",
+      "code": "HLT_ALL_CD_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.POLYTHENE_FINE",
       "name": "Polythene Fine",
       "code": "HLT_POLYTHENE_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Polythene Fine",
+      "code": "HLT_ALL_POLYTHENE_FINE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3211,9 +3371,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Open/Burning Fine",
+      "code": "HLT_ALL_OPEN_BURN_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.SMOKING_FINE",
       "name": "Smoking Fine",
       "code": "HLT_SMOKING_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Smoking Fine",
+      "code": "HLT_ALL_SMOKING_FINE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3231,9 +3411,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Spitting Fine",
+      "code": "HLT_ALL_SPITTING_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.INSANITARY_FINE",
       "name": "Insanitary Condition in K/H/Restur/Dhaba",
       "code": "HLT_INSANITARY_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Insanitary Condition in K/H/Restur/Dhaba",
+      "code": "HLT_ALL_INSANITARY_FINE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3251,9 +3451,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Dai License Fee Health Sec",
+      "code": "HLT_ALL_DAI_LICENSE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.COMPOUNDING_FEE",
       "name": "Compounding Fee Health Sec",
       "code": "HLT_COMPOUNDING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Compounding Fee Health Sec",
+      "code": "HLT_ALL_COMPOUNDING_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3271,9 +3491,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Application Fees (Food And Drugs Form Fees)",
+      "code": "HLT_ALL_FOOD_DRUG_APP_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
       "name": "Litter & Debris Collection (SWM) charges",
       "code": "HLT_LITTER_DEBRIS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Litter & Debris Collection (SWM) charges",
+      "code": "HLT_ALL_LITTER_DEBRIS",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3291,9 +3531,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "User Charges Health Sec Online/Others",
+      "code": "HLT_ALL_USER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
       "name": "BWGs Rail Head U/Charges",
       "code": "HLT_BWG_RAIL_HEAD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "BWGs Rail Head U/Charges",
+      "code": "HLT_ALL_BWG_RAIL_HEAD",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3309,11 +3569,31 @@
       "order": "0",
       "isRequired": false
     },
-        {
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Flag Revenue",
+      "code": "HLT_ALL_FLAG_REVENUE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_UC",
       "name": "Household User Charges",
       "code": "HLT_HOUSE_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Household User Charges",
+      "code": "HLT_ALL_HOUSE_UC",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3331,9 +3611,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Rail Head Commercial User Charges",
+      "code": "HLT_ALL_HOUSE_COMM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_NAR_UC",
       "name": "Narwal User Charges",
       "code": "HLT_HOUSE_NA_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Narwal User Charges",
+      "code": "HLT_ALL_HOUSE_NA_UC",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3351,9 +3651,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Narwal Commercial User Charges",
+      "code": "HLT_ALL_HOUSE_NA_COMM_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_COMM_UC",
       "name": "Commercial User Charges",
       "code": "HLT_HOUSE_COMM_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Commercial User Charges",
+      "code": "HLT_ALL_HOUSE_COMM_UC",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3371,9 +3691,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Ward Rail Head Sanitation Charges",
+      "code": "HLT_ALL_HOUSE_WARD_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_BULK_WC",
       "name": "Bulk waste charges",
       "code": "HLT_HOUSE_BL_WC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Bulk waste charges",
+      "code": "HLT_ALL_HOUSE_BL_WC",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3389,11 +3729,31 @@
       "order": "0",
       "isRequired": false
     },
-        {
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Open Defecation Fine",
+      "code": "HLT_ALL_HOUSE_OPEN_FE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
       "name": "Faecal Sludge Fine",
       "code": "HLT_HOUSE_FAL_FE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "Faecal Sludge Fine",
+      "code": "HLT_ALL_HOUSE_FAL_FE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3411,9 +3771,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Rent from Ground and Field- Khilafwarzi Section",
+      "code": "KHILAFWARZI_ALL_RENT_GROUND_FIELD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.NOC_FEE",
       "name": "NOC Fee Khilafwarzi Section",
       "code": "KHILAFWARZI_NOC_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "NOC Fee Khilafwarzi Section",
+      "code": "KHILAFWARZI_ALL_NOC_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3431,9 +3811,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Demolition Charges",
+      "code": "KHILAFWARZI_ALL_DEMOLITION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.TRANSPORT_RECOVERY",
       "name": "Recovery of Transportation Khilafwarzi Sec",
       "code": "KHILAFWARZI_TRANSPORT_RECOVERY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Recovery of Transportation Khilafwarzi Sec",
+      "code": "KHILAFWARZI_ALL_TRANSPORT_RECOVERY",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3451,9 +3851,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Copying Fee Khilafwarzi Sec",
+      "code": "KHILAFWARZI_ALL_COPYING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.FINE_PENALTY",
       "name": "Fine & Penality Khilafwarzi Sec",
       "code": "KHILAFWARZI_FINE_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Fine & Penality Khilafwarzi Sec",
+      "code": "KHILAFWARZI_ALL_FINE_PENALTY",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3471,9 +3891,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Compounding Fee Khalifwarzi Sec",
+      "code": "KHILAFWARZI_ALL_COMPOUNDING",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.RECOVERY_EMPLOYEE",
       "name": "Recovery from Employees- Khilafwarzi Section",
       "code": "KHILAFWARZI_RECOVERY_EMPLOYEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Recovery from Employees- Khilafwarzi Section",
+      "code": "KHILAFWARZI_ALL_RECOVERY_EMPLOYEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3491,9 +3931,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "Sanitation Charges- Khilafwarzi Section",
+      "code": "KHILAFWARZI_ALL_SANITATION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.PENALTY_FINE",
       "name": "Penalties & Fines- Other Fines",
       "code": "OTHER_MISC_PENALTY_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "Penalties & Fines- Other Fines",
+      "code": "OTHER_MISC_ALL_PENALTY_FINE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3511,9 +3971,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "Penalties & Cancellation of Contract (CDR)",
+      "code": "OTHER_MISC_ALL_CONTRACT_CANCEL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.MISC_FEES",
       "name": "Miscellaneous fees",
       "code": "OTHER_MISC_MISC_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "Miscellaneous fees",
+      "code": "OTHER_MISC_ALL_MISC_FEES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3531,9 +4011,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "GST From Auction",
+      "code": "OTHER_MISC_ALL_GST_AUCTION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
       "name": "Recovery from Contractor- Other Service Miscellaneous",
       "code": "OTHER_MISC_RECOVERY_CONTRACTOR",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "Recovery from Contractor- Other Service Miscellaneous",
+      "code": "OTHER_MISC_ALL_RECOVERY_CONTRACTOR",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3551,9 +4051,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "Sale of tender papers",
+      "code": "OTHER_MISC_ALL_SALE_TENDER",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.SALE_ITEMS_SCRAP",
       "name": "Sales of Other Items and Scraps",
       "code": "OTHER_MISC_SALE_SCRAP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "Sales of Other Items and Scraps",
+      "code": "OTHER_MISC_ALL_SALE_SCRAP",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3581,9 +4101,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.ALL",
+      "name": "Recovery of Transportation Charges- Transport Section",
+      "code": "TRANSPORT_SECTION_ALL_TRANSPORT_RECOVERY_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
       "name": "Excess Payment Recovery from Contractor- Transport Section",
       "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.ALL",
+      "name": "Excess Payment Recovery from Contractor- Transport Section",
+      "code": "TRANSPORT_SECTION_ALL_EXCESS_PAYMENT_RECOVERY",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3601,9 +4141,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.ALL",
+      "name": "Compounding fees- Transport Section",
+      "code": "TRANSPORT_SECTION_ALL_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
       "name": "Water/Septic Tank Fees",
       "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.ALL",
+      "name": "Water/Septic Tank Fees",
+      "code": "TRANSPORT_SECTION_ALL_WATER_SEPTIC_TANK_FEES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3621,9 +4181,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.ALL",
+      "name": "Sewerage cleaning charges",
+      "code": "TRANSPORT_SECTION_ALL_SEWERAGE_CLEANING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
       "name": "Charges for supply of water by tankers",
       "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.ALL",
+      "name": "Charges for supply of water by tankers",
+      "code": "TRANSPORT_SECTION_ALL_WATER_TANKER_SUPPLY_CHARGES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3641,6 +4221,16 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Licensing fees from slaughter houses",
+      "code": "VETERINARY_MVO_ALL_SLAUGHTERHOUSE_LICENSE_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
       "name": "Dog Registration fees MVO",
       "code": "VETERINARY_MVO_DOG_REGISTRATION_FEES",
@@ -3651,9 +4241,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Dog Registration fees MVO",
+      "code": "VETERINARY_MVO_ALL_DOG_REGISTRATION_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
       "name": "Dairy Farm Registration Fee",
       "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Dairy Farm Registration Fee",
+      "code": "VETERINARY_MVO_ALL_DAIRY_FARM_REGISTRATION",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
