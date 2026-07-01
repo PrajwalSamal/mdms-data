@@ -1022,6 +1022,16 @@
       "type": "Finance"
     },
     {
+      "businessService": "Account Section.All",
+      "code": "ACCOUNT_SECTION.ALL",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
       "businessService": "Account Section.Interest from Bank on Smart Saver Acc",
       "code": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
       "collectionModesNotAllowed": [],
@@ -1074,6 +1084,18 @@
     {
       "businessService": "Building Section.License Fee/ Architect fee/ Draftsman License Fee",
       "code": "BUILDING_SECTION.LICENSING_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Building Section.All",
+      "code": "BUILDING_SECTION.ALL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1278,6 +1300,17 @@
     {
       "businessService": "Health Section.C&D Fine",
       "code": "HEALTH_SECTION.CD_FINE",
+      "collectionModesNotAllowed": [
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Health Section.All",
+      "code": "HEALTH_SECTION.ALL",
       "collectionModesNotAllowed": [
       ],
       "partPaymentAllowed": false,
@@ -1497,6 +1530,18 @@
       "type": "Finance"
     },
     {
+      "businessService": "Khilafwarzi Section.All",
+      "code": "KHILAFWARZI_SECTION.ALL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
       "businessService": "Khilafwarzi Section.Rent from Ground and Field",
       "code": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
       "collectionModesNotAllowed": [
@@ -1607,6 +1652,18 @@
     {
       "businessService": "Other Service Miscellaneous.Penalties & Fines- Other Fines",
       "code": "OTHER_SERVICE_MISC.PENALTY_FINE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Other Service Miscellaneous.All",
+      "code": "OTHER_SERVICE_MISC.ALL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1833,6 +1890,18 @@
       "type": "Finance"
     },
     {
+      "businessService": "Transport Section.Recovery of Transportation Charges",
+      "code": "TRANSPORT_SECTION.ALL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
       "businessService": "Transport Section.Excess Payment Recovery from Contractor",
       "code": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
       "collectionModesNotAllowed": [
@@ -1895,6 +1964,18 @@
     {
       "businessService": "Veterinary Service Treatment of Cattle Cell Section.Licensing fees from slaughter houses",
       "code": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Veterinary Service Treatment of Cattle Cell Section.All",
+      "code": "VETERINARY_MVO.ALL",
       "collectionModesNotAllowed": [
         "DD"
       ],
