@@ -1890,7 +1890,7 @@
       "type": "Finance"
     },
     {
-      "businessService": "Transport Section.Recovery of Transportation Charges",
+      "businessService": "Transport Section.All",
       "code": "TRANSPORT_SECTION.ALL",
       "collectionModesNotAllowed": [
         "DD"
