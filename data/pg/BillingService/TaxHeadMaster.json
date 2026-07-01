@@ -4341,9 +4341,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Milk Fine MVO Section",
+      "code": "VETERINARY_MVO_ALL_MILK_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.MEAT_FINE",
       "name": "Meat Fine MVO Section",
       "code": "VETERINARY_MVO_MEAT_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Meat Fine MVO Section",
+      "code": "VETERINARY_MVO_ALL_MEAT_FINE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -4361,9 +4381,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Penalties/Fine MVO Section",
+      "code": "VETERINARY_MVO_ALL_PENALTY_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
       "name": "Recovery of Transportation MVO Sec",
       "code": "VETERINARY_MVO_TRANSPORT_RECOVERY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Recovery of Transportation MVO Sec",
+      "code": "VETERINARY_MVO_ALL_TRANSPORT_RECOVERY",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -4381,9 +4421,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Cattle Impounding Fee MVO",
+      "code": "VETERINARY_MVO_ALL_CATTLE_IMPOUNDING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
       "name": "Recovery Frm Employee MVO",
       "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Recovery Frm Employee MVO",
+      "code": "VETERINARY_MVO_ALL_RECOVERY_EMPLOYEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -4401,6 +4461,16 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Maintenance Cost of Bovine MVO",
+      "code": "VETERINARY_MVO_ALL_BOVINE_MAINTENANCE_COST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.COMPOUNDING_FEE",
       "name": "Compounding Fee Mvo",
       "code": "VETERINARY_MVO_COMPOUNDING_FEE",
@@ -4411,9 +4481,29 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
+      "name": "Compounding Fee Mvo",
+      "code": "VETERINARY_MVO_ALL_COMPOUNDING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.MISC_FEES",
       "name": "Misc Fee Mvo Sec",
       "code": "VETERINARY_MVO_MISC_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MISC_FEES",
+      "name": "Misc Fee Mvo Sec",
+      "code": "VETERINARY_MVO_ALL_MISC_FEES",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
