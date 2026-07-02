@@ -21995,6 +21995,20 @@
       "navigationURL": "/services/collection/receipts/searchReceipt-searchReportNew.action",
       "leftIcon": "image:collections",
       "path": "Finance.Revenue/Collections.Receipt Report"
+    },
+    {
+      "id": 3113,
+      "name": "Cancel Cash Receipt",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Cancel Cash Receipt",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceAdmin",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Administration.Cancel Cash Receipt",
+      "navigationURL": "services/collection/cancel/cash_receipt/form"
     }
   ]
 }
