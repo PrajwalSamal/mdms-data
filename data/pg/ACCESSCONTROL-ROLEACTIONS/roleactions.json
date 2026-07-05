@@ -33938,6 +33938,19 @@
       "actionid": 3112,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_RECEIPT_CANCEL_CHEQUE_DISHONOR",
+      "actionid": 3113,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_RECEIPT_CANCEL_CHEQUE_DISHONOR",
+      "actionid": 1981,
+      "actioncode": "",
+      "tenantId": "pg"
     }
+
   ]
 }
