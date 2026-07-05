@@ -941,6 +941,11 @@
       "code": "EGF_WORKORDER_MASTER_HANDLER",
       "name": "EGF WORKORDER MASTER HANDLER",
       "description": "Role for Work order Master"
+    },
+    {
+      "code": "EGF_RECEIPT_CANCEL_CHEQUE_DISHONOR",
+      "name": "EGF RECEIPT CANCEL CHEQUE DISHONOR",
+      "description": "Role for Receipt Cancel Cheque Dishonor"
     }
     
   ]
