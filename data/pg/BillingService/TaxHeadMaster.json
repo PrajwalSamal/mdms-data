@@ -3000,6 +3000,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.LICENSING_FEES",
+      "name": "CGST Payable",
+      "code": "BLD_LICENSING_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.LICENSING_FEES",
+      "name": "SGST Payable",
+      "code": "BLD_LICENSING_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.LICENSING_FEES",
+      "name": "IGST Payable",
+      "code": "BLD_LICENSING_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "BUILDING_SECTION.LICENSING_FEES",
       "name": "Licensing fees Building",
@@ -3014,6 +3044,36 @@
       "service": "BUILDING_SECTION.ALL",
       "name": "Licensing fees Building",
       "code": "BLD_ALL_LICENSING_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.PLAN_SANCTION_FEES",
+      "name": "CGST Payable",
+      "code": "BLD_PLAN_SANCTION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.PLAN_SANCTION_FEES",
+      "name": "SGST Payable",
+      "code": "BLD_PLAN_SANCTION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.PLAN_SANCTION_FEES",
+      "name": "IGST Payable",
+      "code": "BLD_PLAN_SANCTION_FEES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3040,6 +3100,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.BETTERMENT_CHARGES",
+      "name": "CGST Payable",
+      "code": "BLD_BETTERMENT_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.BETTERMENT_CHARGES",
+      "name": "SGST Payable",
+      "code": "BLD_BETTERMENT_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.BETTERMENT_CHARGES",
+      "name": "IGST Payable",
+      "code": "BLD_BETTERMENT_CHARGES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "BUILDING_SECTION.BETTERMENT_CHARGES",
       "name": "Betterment Charges",
@@ -3054,6 +3144,36 @@
       "service": "BUILDING_SECTION.ALL",
       "name": "Betterment Charges",
       "code": "BLD_ALL_BETTERMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.REGULARIZATION_FEES",
+      "name": "CGST Payable",
+      "code": "BLD_REGULARIZATION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.REGULARIZATION_FEES",
+      "name": "SGST Payable",
+      "code": "BLD_REGULARIZATION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.REGULARIZATION_FEES",
+      "name": "IGST Payable",
+      "code": "BLD_REGULARIZATION_FEES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3080,6 +3200,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.APPLICATION_FEES",
+      "name": "CGST Payable",
+      "code": "BLD_APPLICATION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.APPLICATION_FEES",
+      "name": "SGST Payable",
+      "code": "BLD_APPLICATION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.APPLICATION_FEES",
+      "name": "IGST Payable",
+      "code": "BLD_APPLICATION_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "BUILDING_SECTION.APPLICATION_FEES",
       "name": "Application fees",
@@ -3094,6 +3244,36 @@
       "service": "BUILDING_SECTION.ALL",
       "name": "Application fees",
       "code": "BLD_ALL_APPLICATION_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.COPYING_FEE",
+      "name": "CGST Payable",
+      "code": "BLD_COPYING_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.COPYING_FEE",
+      "name": "SGST Payable",
+      "code": "BLD_COPYING_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.COPYING_FEE",
+      "name": "IGST Payable",
+      "code": "BLD_COPYING_FEE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3120,6 +3300,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.COMPOUNDING_FEES",
+      "name": "CGST Payable",
+      "code": "BLD_COMPOUNDING_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.COMPOUNDING_FEES",
+      "name": "SGST Payable",
+      "code": "BLD_COMPOUNDING_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.COMPOUNDING_FEES",
+      "name": "IGST Payable",
+      "code": "BLD_COMPOUNDING_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "BUILDING_SECTION.COMPOUNDING_FEES",
       "name": "Compounding fees- Building Section",
@@ -3134,6 +3344,66 @@
       "service": "BUILDING_SECTION.ALL",
       "name": "Compounding fees- Building Section",
       "code": "BLD_ALL_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "CGST Payable",
+      "code": "BLD_ALL_COMPOUNDING_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "SGST Payable",
+      "code": "BLD_ALL_COMPOUNDING_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.ALL",
+      "name": "IGST Payable",
+      "code": "BLD_ALL_COMPOUNDING_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.SANITATION_CHARGES",
+      "name": "CGST Payable",
+      "code": "BLD_SANITATION_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.SANITATION_CHARGES",
+      "name": "SGST Payable",
+      "code": "BLD_SANITATION_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.SANITATION_CHARGES",
+      "name": "IGST Payable",
+      "code": "BLD_SANITATION_CHARGES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3160,6 +3430,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.HOUSE_LOAN_INTEREST",
+      "name": "CGST Payable",
+      "code": "BLD_HOUSE_LOAN_INTEREST_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.HOUSE_LOAN_INTEREST",
+      "name": "SGST Payable",
+      "code": "BLD_HOUSE_LOAN_INTEREST_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.HOUSE_LOAN_INTEREST",
+      "name": "IGST Payable",
+      "code": "BLD_HOUSE_LOAN_INTEREST_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "BUILDING_SECTION.HOUSE_LOAN_INTEREST",
       "name": "Interest on House Building Loans",
@@ -3180,6 +3480,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
+      "name": "CGST Payable",
+      "code": "BLD_MULBA_SECURITY_DEPOSIT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
+      "name": "SGST Payable",
+      "code": "BLD_MULBA_SECURITY_DEPOSIT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
+      "name": "IGST Payable",
+      "code": "BLD_MULBA_SECURITY_DEPOSIT_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "BUILDING_SECTION.MULBA_SECURITY_DEPOSIT",
       "name": "Deposite for Mulba Security",
@@ -3194,6 +3524,36 @@
       "service": "BUILDING_SECTION.ALL",
       "name": "Deposite for Mulba Security",
       "code": "BLD_ALL_MULBA_SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
+      "name": "CGST Payable",
+      "code": "BLD_SEPTIC_TANK_DEPOSIT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
+      "name": "SGST Payable",
+      "code": "BLD_SEPTIC_TANK_DEPOSIT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "BUILDING_SECTION.SEPTIC_TANK_DEPOSIT",
+      "name": "IGST Payable",
+      "code": "BLD_SEPTIC_TANK_DEPOSIT_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3320,6 +3680,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.CD_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_CD_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.CD_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_CD_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.CD_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_CD_FINE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.CD_FINE",
       "name": "C&D Fine",
@@ -3334,6 +3724,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "C&D Fine",
       "code": "HLT_ALL_CD_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.POLYTHENE_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_POLYTHENE_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.POLYTHENE_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_POLYTHENE_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.POLYTHENE_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_POLYTHENE_FINE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3360,6 +3780,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.OPEN_BURNING_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_OPEN_BURN_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.OPEN_BURNING_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_OPEN_BURN_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.OPEN_BURNING_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_OPEN_BURN_FINE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.OPEN_BURNING_FINE",
       "name": "Open/Burning Fine",
@@ -3374,6 +3824,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Open/Burning Fine",
       "code": "HLT_ALL_OPEN_BURN_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.SMOKING_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_SMOKING_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.SMOKING_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_SMOKING_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.SMOKING_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_SMOKING_FINE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3400,6 +3880,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.SPITTING_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_SPITTING_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.SPITTING_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_SPITTING_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.SPITTING_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_SPITTING_FINE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.SPITTING_FINE",
       "name": "Spitting Fine",
@@ -3414,6 +3924,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Spitting Fine",
       "code": "HLT_ALL_SPITTING_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.INSANITARY_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_INSANITARY_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.INSANITARY_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_INSANITARY_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.INSANITARY_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_INSANITARY_FINE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3440,6 +3980,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.DAI_LICENSE_FEE",
+      "name": "CGST Payable",
+      "code": "HLT_DAI_LICENSE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.DAI_LICENSE_FEE",
+      "name": "SGST Payable",
+      "code": "HLT_DAI_LICENSE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.DAI_LICENSE_FEE",
+      "name": "IGST Payable",
+      "code": "HLT_DAI_LICENSE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.DAI_LICENSE_FEE",
       "name": "Dai License Fee Health Sec",
@@ -3454,6 +4024,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Dai License Fee Health Sec",
       "code": "HLT_ALL_DAI_LICENSE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.COMPOUNDING_FEE",
+      "name": "CGST Payable",
+      "code": "HLT_COMPOUNDING_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.COMPOUNDING_FEE",
+      "name": "SGST Payable",
+      "code": "HLT_COMPOUNDING_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.COMPOUNDING_FEE",
+      "name": "IGST Payable",
+      "code": "HLT_COMPOUNDING_FEE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3480,6 +4080,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
+      "name": "CGST Payable",
+      "code": "HLT_FOOD_DRUG_APP_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
+      "name": "SGST Payable",
+      "code": "HLT_FOOD_DRUG_APP_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
+      "name": "IGST Payable",
+      "code": "HLT_FOOD_DRUG_APP_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.FOOD_DRUG_APPLICATION_FEES",
       "name": "Application Fees (Food And Drugs Form Fees)",
@@ -3494,6 +4124,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Application Fees (Food And Drugs Form Fees)",
       "code": "HLT_ALL_FOOD_DRUG_APP_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
+      "name": "CGST Payable",
+      "code": "HLT_LITTER_DEBRIS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
+      "name": "SGST Payable",
+      "code": "HLT_LITTER_DEBRIS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.LITTER_DEBRIS_CHARGES",
+      "name": "IGST Payable",
+      "code": "HLT_LITTER_DEBRIS_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3520,6 +4180,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.USER_CHARGES",
+      "name": "CGST Payable",
+      "code": "HLT_USER_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.USER_CHARGES",
+      "name": "SGST Payable",
+      "code": "HLT_USER_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.USER_CHARGES",
+      "name": "IGST Payable",
+      "code": "HLT_USER_CHARGES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.USER_CHARGES",
       "name": "User Charges Health Sec Online/Others",
@@ -3534,6 +4224,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "User Charges Health Sec Online/Others",
       "code": "HLT_ALL_USER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
+      "name": "CGST Payable",
+      "code": "HLT_BWG_RAIL_HEAD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
+      "name": "SGST Payable",
+      "code": "HLT_BWG_RAIL_HEAD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.BWG_RAIL_HEAD_CHARGES",
+      "name": "IGST Payable",
+      "code": "HLT_BWG_RAIL_HEAD_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3560,6 +4280,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.FLAG_REVENUE",
+      "name": "CGST Payable",
+      "code": "HLT_FLAG_REVENUE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.FLAG_REVENUE",
+      "name": "SGST Payable",
+      "code": "HLT_FLAG_REVENUE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.FLAG_REVENUE",
+      "name": "IGST Payable",
+      "code": "HLT_FLAG_REVENUE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.FLAG_REVENUE",
       "name": "Flag Revenue",
@@ -3574,6 +4324,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Flag Revenue",
       "code": "HLT_ALL_FLAG_REVENUE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_UC",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_UC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_UC",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_UC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_UC",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_UC_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3600,6 +4380,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_COMM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_COMM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_RAIL_COMM",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_COMM_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_RAIL_COMM",
       "name": "Rail Head Commercial User Charges",
@@ -3614,6 +4424,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Rail Head Commercial User Charges",
       "code": "HLT_ALL_HOUSE_COMM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_NAR_UC",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_NA_UC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_NAR_UC",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_NA_UC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_NAR_UC",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_NA_UC_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3640,6 +4480,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_NA_COMM_UC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_NA_COMM_UC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_NA_COMM_UC_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_NAR_COMM_UC",
       "name": "Narwal Commercial User Charges",
@@ -3654,6 +4524,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Narwal Commercial User Charges",
       "code": "HLT_ALL_HOUSE_NA_COMM_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_COMM_UC",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_COMM_UC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_COMM_UC",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_COMM_UC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_COMM_UC",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_COMM_UC_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3680,6 +4580,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_WARD_UC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_WARD_UC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_WARD_UC_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_WARD_HEAD_UC",
       "name": "Ward Rail Head Sanitation Charges",
@@ -3694,6 +4624,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Ward Rail Head Sanitation Charges",
       "code": "HLT_ALL_HOUSE_WARD_UC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_BULK_WC",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_BL_WC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_BULK_WC",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_BL_WC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_BULK_WC",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_BL_WC_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3720,6 +4680,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_OPEN_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_OPEN_FE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_OPEN_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_OPEN_FE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_OPEN_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_OPEN_FE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "HEALTH_SECTION.HOUSE_OPEN_FINE",
       "name": "Open Defecation Fine",
@@ -3734,6 +4724,36 @@
       "service": "HEALTH_SECTION.ALL",
       "name": "Open Defecation Fine",
       "code": "HLT_ALL_HOUSE_OPEN_FE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
+      "name": "CGST Payable",
+      "code": "HLT_HOUSE_FAL_FE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
+      "name": "SGST Payable",
+      "code": "HLT_HOUSE_FAL_FE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.HOUSE_FAECAL_FINE",
+      "name": "IGST Payable",
+      "code": "HLT_HOUSE_FAL_FE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
