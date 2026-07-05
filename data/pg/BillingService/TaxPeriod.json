@@ -1942,6 +1942,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.MISC_FEE",
+      "code": "ACC_MISC_FEE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.MISC_FEE",
+      "code": "ACC_MISC_FEE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.MISC_FEE",
+      "code": "ACC_MISC_FEE_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "ACCOUNT_SECTION.ALL",
       "code": "ACC_ALL_MISC_FEETAX",
       "financialYear": "2016-30"
@@ -1958,6 +1982,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
+      "code": "ACC_INTEREST_SMART_SAVER_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
+      "code": "ACC_INTEREST_SMART_SAVER_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
+      "code": "ACC_INTEREST_SMART_SAVER_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "ACCOUNT_SECTION.ALL",
       "code": "ACC_ALL_INTEREST_SMART_SAVERTAX",
       "financialYear": "2016-30"
@@ -1968,6 +2016,30 @@
       "periodCycle": "ANNUAL",
       "service": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
       "code": "ACC_RECURRING_DEPOSITTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
+      "code": "ACC_RECURRING_DEPOSIT_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
+      "code": "ACC_RECURRING_DEPOSIT_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "ACCOUNT_SECTION.RECURRING_DEPOSIT",
+      "code": "ACC_RECURRING_DEPOSIT_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -2838,6 +2910,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.COPYING_FEES",
+      "code": "GA_RTI_COPYING_FEES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.COPYING_FEES",
+      "code": "GA_RTI_COPYING_FEES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.COPYING_FEES",
+      "code": "GA_RTI_COPYING_FEES_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.ALL",
       "code": "GA_RTI_ALL_COPYING_FEESTAX",
       "financialYear": "2016-30"
@@ -2848,6 +2944,30 @@
       "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
       "code": "GA_RTI_RECOVERY_EMPLOYEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
+      "code": "GA_RTI_RECOVERY_EMPLOYEE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
+      "code": "GA_RTI_RECOVERY_EMPLOYEE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_EMPLOYEE",
+      "code": "GA_RTI_RECOVERY_EMPLOYEE_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -2870,6 +2990,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_CONTRACTOR",
+      "code": "GA_RTI_RECOVERY_CONTRACTOR_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_CONTRACTOR",
+      "code": "GA_RTI_RECOVERY_CONTRACTOR_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_CONTRACTOR",
+      "code": "GA_RTI_RECOVERY_CONTRACTOR_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.ALL",
       "code": "GA_RTI_ALL_RECOVERY_CONTRACTORTAX",
       "financialYear": "2016-30"
@@ -2886,6 +3030,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
+      "code": "GA_RTI_RECOVERY_TEMP_ADVANCE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
+      "code": "GA_RTI_RECOVERY_TEMP_ADVANCE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.RECOVERY_TEMP_ADVANCE",
+      "code": "GA_RTI_RECOVERY_TEMP_ADVANCE_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.ALL",
       "code": "GA_RTI_ALL_RECOVERY_TEMP_ADVANCETAX",
       "financialYear": "2016-30"
@@ -2896,6 +3064,30 @@
       "periodCycle": "ANNUAL",
       "service": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
       "code": "GA_RTI_APPLICATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
+      "code": "GA_RTI_APPLICATION_FEES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
+      "code": "GA_RTI_APPLICATION_FEES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "GENERAL_ADMIN_RTI.APPLICATION_FEES",
+      "code": "GA_RTI_APPLICATION_FEES_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -3094,6 +3286,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.REG_FEE",
+      "code": "BD_REG_FEE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.REG_FEE",
+      "code": "BD_REG_FEE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.REG_FEE",
+      "code": "BD_REG_FEE_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "BD_REGISTRATION.ALL",
       "code": "BD_ALL_REG_FEETAX",
       "financialYear": "2016-30"
@@ -3112,6 +3328,30 @@
       "periodCycle": "ANNUAL",
       "service": "BD_REGISTRATION.COPYING_FEE",
       "code": "BD_COPYING_FEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.COPYING_FEE",
+      "code": "BD_COPYING_FEE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.COPYING_FEE",
+      "code": "BD_COPYING_FEE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "BD_REGISTRATION.COPYING_FEE",
+      "code": "BD_COPYING_FEE_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
