@@ -2254,6 +2254,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "TRANSPORT_SECTION.ALL",
       "code": "TRANSPORT_SECTION_ALL_TRANSPORT_RECOVERY_CHARGESTAX",
       "financialYear": "2016-30"
@@ -2264,6 +2288,30 @@
       "periodCycle": "ANNUAL",
       "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
       "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERYTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -2286,6 +2334,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "TRANSPORT_SECTION.ALL",
       "code": "TRANSPORT_SECTION_ALL_COMPOUNDING_FEESTAX",
       "financialYear": "2016-30"
@@ -2296,6 +2368,30 @@
       "periodCycle": "ANNUAL",
       "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
       "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -2318,6 +2414,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "TRANSPORT_SECTION.ALL",
       "code": "TRANSPORT_SECTION_ALL_SEWERAGE_CLEANING_CHARGESTAX",
       "financialYear": "2016-30"
@@ -2328,6 +2448,30 @@
       "periodCycle": "ANNUAL",
       "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
       "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
