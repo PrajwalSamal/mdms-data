@@ -941,6 +941,16 @@
       "code": "EGF_WORKORDER_MASTER_HANDLER",
       "name": "EGF WORKORDER MASTER HANDLER",
       "description": "Role for Work order Master"
+    },
+    {
+      "code": "EDIT_RECEIPT_USER",
+      "name": "Edit Receipt User",
+      "description": "Role for Edit the Receipts"
+    },
+    	 {
+      "code": "EDIT_RECEIPT_ADMIN",
+      "name": "Edit Receipt Admin",
+      "description": "Role for Edit the Receipts"
     }
     
   ]
