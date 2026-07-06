@@ -943,14 +943,19 @@
       "description": "Role for Work order Master"
     },
     {
-      "code": "EDIT_RECEIPT_USER",
-      "name": "Edit Receipt User",
-      "description": "Role for Edit the Receipts"
+      "code": "EGF_RECEIPT_CANCEL_CHEQUE_DISHONOR",
+      "name": "EGF RECEIPT CANCEL CHEQUE DISHONOR",
+      "description": "Role for Receipt Cancel Cheque Dishonor"
     },
-    	 {
+    {
+      "code": "EDIT_RECEIPT_USER",
+      "name": "EDIT RECEIPT USER",
+      "description": "Role for Edit Receipts"
+    },
+    {
       "code": "EDIT_RECEIPT_ADMIN",
-      "name": "Edit Receipt Admin",
-      "description": "Role for Edit the Receipts"
+      "name": "EDIT RECEIPT USER",
+      "description": "Role for Edit Receipts"
     }
     
   ]

@@ -3281,6 +3281,43 @@
       "path": "Finance Report"
     },
     {
+      "id": 3506,
+      "name": "Head Wise Count Report",
+      "url": "url",
+      "displayName": "Head Wise Count Report",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-fin-reports",
+      "enabled": true,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "ULB Reports.headwiseCountReport",
+      "navigationURL": "report/rainmaker-fin/headwiseCountReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 3507,
+      "name": "headwiseCountReport",
+      "url": "/report/rainmaker-fin/_get",
+      "displayName": "Finance Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "Finance Report"
+    },
+    {
+      "id": 3508,
+      "name": "headwiseCountReport",
+      "url": "/report/rainmaker-fin/metadata/_get",
+      "displayName": "Fin Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Fin_Report",
+      "code": "null",
+      "path": "Finance Report"
+    },
+    {
       "id": 3505,
       "name": "Finance All ULB Receipt Report",
       "url": "url",
@@ -21958,6 +21995,20 @@
       "navigationURL": "/services/collection/receipts/searchReceipt-searchReportNew.action",
       "leftIcon": "image:collections",
       "path": "Finance.Revenue/Collections.Receipt Report"
+    },
+    {
+      "id": 3113,
+      "name": "Cancel Cash Receipt",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Cancel Cash Receipt",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceAdmin",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Administration.Cancel Cash Receipt",
+      "navigationURL": "services/collection/cancel/cash_receipt/form"
     }
   ]
 }
