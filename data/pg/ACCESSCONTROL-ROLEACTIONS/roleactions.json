@@ -106,6 +106,24 @@
     },
     {
       "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3506,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3507,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3508,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 3503,
       "actioncode": "",
       "tenantId": "pg"
@@ -11535,7 +11553,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "HRMS_ADMIN",
       "actionid": 1773,
       "actioncode": "",
       "tenantId": "pg"
@@ -11631,7 +11649,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "HRMS_ADMIN",
       "actionid": 1779,
       "actioncode": "",
       "tenantId": "pg"
@@ -13666,6 +13684,24 @@
     },
     {
       "rolecode": "STADMIN",
+      "actionid": 3506,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3507,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3508,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
       "actionid": 3503,
       "actioncode": "",
       "tenantId": "pg"
@@ -13682,6 +13718,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+    
     {
       "rolecode": "STADMIN",
       "actionid": 1958,
@@ -15179,6 +15216,18 @@
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3113,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 3113,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -20955,18 +21004,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 2178,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2179,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 2179,
       "actioncode": "",
@@ -24161,12 +24198,6 @@
     {
       "rolecode": "BPAREG_DOC_VERIFIER",
       "actionid": 698,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2318,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -33907,6 +33938,19 @@
       "actionid": 3112,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_RECEIPT_CANCEL_CHEQUE_DISHONOR",
+      "actionid": 3113,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_RECEIPT_CANCEL_CHEQUE_DISHONOR",
+      "actionid": 1981,
+      "actioncode": "",
+      "tenantId": "pg"
     }
+
   ]
 }
