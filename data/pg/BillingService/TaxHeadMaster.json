@@ -4401,6 +4401,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.ALL",
       "name": "Recovery of Transportation Charges- Transport Section",
       "code": "TRANSPORT_SECTION_ALL_TRANSPORT_RECOVERY_CHARGES",
@@ -4414,6 +4444,36 @@
       "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
       "name": "Excess Payment Recovery from Contractor- Transport Section",
       "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -4441,6 +4501,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.ALL",
       "name": "Compounding fees- Transport Section",
       "code": "TRANSPORT_SECTION_ALL_COMPOUNDING_FEES",
@@ -4454,6 +4544,36 @@
       "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
       "name": "Water/Septic Tank Fees",
       "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -4481,6 +4601,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.ALL",
       "name": "Sewerage cleaning charges",
       "code": "TRANSPORT_SECTION_ALL_SEWERAGE_CLEANING_CHARGES",
@@ -4494,6 +4644,36 @@
       "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
       "name": "Charges for supply of water by tankers",
       "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
