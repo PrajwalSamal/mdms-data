@@ -946,6 +946,16 @@
       "code": "EGF_RECEIPT_CANCEL_CHEQUE_DISHONOR",
       "name": "EGF RECEIPT CANCEL CHEQUE DISHONOR",
       "description": "Role for Receipt Cancel Cheque Dishonor"
+    },
+    {
+      "code": "EDIT_RECEIPT_USER",
+      "name": "EDIT RECEIPT USER",
+      "description": "Role for Edit Receipts"
+    },
+    {
+      "code": "EDIT_RECEIPT_ADMIN",
+      "name": "EDIT RECEIPT USER",
+      "description": "Role for Edit Receipts"
     }
     
   ]
