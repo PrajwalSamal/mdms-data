@@ -3291,7 +3291,7 @@
       "serviceCode": "MIS-Dashboard",
       "code": "null",
       "path": "Dashboard",
-      "navigationURL": "report/rainmaker-fin/headwiseCountReport",
+      "navigationURL": "/mis-dashboard",
       "leftIcon": "",
       "rightIcon": ""
     },

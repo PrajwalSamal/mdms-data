@@ -21,7 +21,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "FSM_DASHBOARD_VIEWER",
       "actionid": 3509,
       "actioncode": "",
       "tenantId": "pg"
