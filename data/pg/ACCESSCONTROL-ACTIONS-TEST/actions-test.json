@@ -3281,6 +3281,21 @@
       "path": "Finance Report"
     },
     {
+      "id": 3509,
+      "name": "MIS-Dashboard",
+      "url": "/mis-dashboard",
+      "displayName": "MIS-Dashboard",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-fin-reports",
+      "enabled": true,
+      "serviceCode": "MIS-Dashboard",
+      "code": "null",
+      "path": "Dashboard",
+      "navigationURL": "report/rainmaker-fin/headwiseCountReport",
+      "leftIcon": "",
+      "rightIcon": ""
+    },
+    {
       "id": 3506,
       "name": "Head Wise Count Report",
       "url": "url",
