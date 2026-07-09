@@ -22024,6 +22024,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Administration.Cancel Cash Receipt",
       "navigationURL": "services/collection/cancel/cash_receipt/form"
+    },
+    {
+      "id": 3114,
+      "name": "utilization certificate",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Utilization Certificate",
+      "orderNumber": 10,
+      "enabled": true,
+      "serviceCode": "FinanceAdmin",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Period End Activities.Utilization Certificate",
+      "navigationURL": "/services/EGF/utilization_certificate/new"
     }
   ]
 }
