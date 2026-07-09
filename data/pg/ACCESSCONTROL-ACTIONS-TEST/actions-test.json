@@ -22027,17 +22027,45 @@
     },
     {
       "id": 3114,
-      "name": "utilization certificate",
+      "name": "Utilization Certificate-Create",
       "url": "url",
       "parentModule": "",
-      "displayName": "Utilization Certificate",
-      "orderNumber": 10,
+      "displayName": "Create Utilization Certificate",
+      "orderNumber": 2,
       "enabled": true,
-      "serviceCode": "FinanceAdmin",
+      "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Utilization Certificate",
-      "navigationURL": "/services/EGF/utilization_certificate/new"
+      "path": "Finance.Period End Activities.Utilization Certificate.Create Utilization Certificate",
+      "navigationURL": "services/EGF/utilization_certificate/new"
+    },
+    {
+      "id": 3115,
+      "name": "Utilization Certificate-View",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "View Utilization Certificate",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Period End Activities.Utilization Certificate.View Utilization Certificate",
+      "navigationURL": "/services/EGF/utilization_certificate/search"
+    },
+    {
+      "id": 3116,
+      "name": "Utilization Certificate-Modify",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Modify Utilization Certificate",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Period End Activities.Utilization Certificate.Modify Utilization Certificate",
+      "navigationURL": "/services/EGF/utilization_certificate/edit"
     }
   ]
 }
