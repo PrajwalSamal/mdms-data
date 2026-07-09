@@ -954,7 +954,7 @@
     },
     {
       "code": "EDIT_RECEIPT_ADMIN",
-      "name": "EDIT RECEIPT USER",
+      "name": "EDIT RECEIPT ADMIN",
       "description": "Role for Edit Receipts"
     }
     

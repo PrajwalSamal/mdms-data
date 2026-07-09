@@ -2062,6 +2062,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "code": "VETERINARY_MVO_SLAUGHTERHOUSE_LICENSE_FEES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "code": "VETERINARY_MVO_SLAUGHTERHOUSE_LICENSE_FEES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "code": "VETERINARY_MVO_SLAUGHTERHOUSE_LICENSE_FEES_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.ALL",
       "code": "VETERINARY_MVO_ALL_SLAUGHTERHOUSE_LICENSE_FEESTAX",
       "financialYear": "2016-30"
@@ -2072,6 +2096,30 @@
       "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
       "code": "VETERINARY_MVO_DOG_REGISTRATION_FEESTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "code": "VETERINARY_MVO_DOG_REGISTRATION_FEES_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "code": "VETERINARY_MVO_DOG_REGISTRATION_FEES_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "code": "VETERINARY_MVO_DOG_REGISTRATION_FEES_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -2094,6 +2142,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.ALL",
       "code": "VETERINARY_MVO_ALL_DAIRY_FARM_REGISTRATIONTAX",
       "financialYear": "2016-30"
@@ -2104,6 +2176,30 @@
       "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.MILK_FINE",
       "code": "VETERINARY_MVO_MILK_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MILK_FINE",
+      "code": "VETERINARY_MVO_MILK_FINE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MILK_FINE",
+      "code": "VETERINARY_MVO_MILK_FINE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MILK_FINE",
+      "code": "VETERINARY_MVO_MILK_FINE_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -2126,6 +2222,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MEAT_FINE",
+      "code": "VETERINARY_MVO_MEAT_FINE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MEAT_FINE",
+      "code": "VETERINARY_MVO_MEAT_FINE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.MEAT_FINE",
+      "code": "VETERINARY_MVO_MEAT_FINE_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.ALL",
       "code": "VETERINARY_MVO_ALL_MEAT_FINETAX",
       "financialYear": "2016-30"
@@ -2136,6 +2256,30 @@
       "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.PENALTY_FINE",
       "code": "VETERINARY_MVO_PENALTY_FINETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.PENALTY_FINE",
+      "code": "VETERINARY_MVO_PENALTY_FINE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.PENALTY_FINE",
+      "code": "VETERINARY_MVO_PENALTY_FINE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.PENALTY_FINE",
+      "code": "VETERINARY_MVO_PENALTY_FINE_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -2158,6 +2302,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "code": "VETERINARY_MVO_TRANSPORT_RECOVERY_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "code": "VETERINARY_MVO_TRANSPORT_RECOVERY_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "code": "VETERINARY_MVO_TRANSPORT_RECOVERY_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.ALL",
       "code": "VETERINARY_MVO_ALL_TRANSPORT_RECOVERYTAX",
       "financialYear": "2016-30"
@@ -2174,6 +2342,30 @@
       "fromDate": 1459449000000,
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "code": "VETERINARY_MVO_CATTLE_IMPOUNDING_FEE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "code": "VETERINARY_MVO_CATTLE_IMPOUNDING_FEE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "code": "VETERINARY_MVO_CATTLE_IMPOUNDING_FEE_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.ALL",
       "code": "VETERINARY_MVO_ALL_CATTLE_IMPOUNDING_FEETAX",
       "financialYear": "2016-30"
@@ -2184,6 +2376,30 @@
       "periodCycle": "ANNUAL",
       "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
       "code": "VETERINARY_MVO_RECOVERY_EMPLOYEETAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -3519,6 +3735,30 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "code": "REV_RENT_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
       "code": "REV_RENT_SHOPPING_COMPLEXTAX",
       "financialYear": "2016-30"
     },
@@ -3711,6 +3951,30 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "code": "REV_LICENSE_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
       "code": "REV_LICENSE_HAWKERSTAX",
       "financialYear": "2016-30"
     },
@@ -3847,6 +4111,30 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TAX_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TAX_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "code": "REV_PROP_TAX_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
       "code": "REV_PROP_TAX_COMMERCIALTAX",
       "financialYear": "2016-30"
     },
@@ -3959,6 +4247,30 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "code": "REV_WATER_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.WATER_TAX",
       "code": "REV_WATER_BULK_UNFILTEREDTAX",
       "financialYear": "2016-30"
     },
@@ -4048,6 +4360,30 @@
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.REVENUE_SALE",
       "code": "REV_SALE_TREE_GUARDSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "code": "REV_SALE_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -4207,6 +4543,30 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "code": "REV_ENTRY_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
       "code": "REV_ENTRY_PLAYGROUNDSTAX",
       "financialYear": "2016-30"
     },
@@ -4256,6 +4616,30 @@
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
       "code": "REV_ADVT_LAND_HOARDINGSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "code": "REV_ADVT_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -4328,6 +4712,30 @@
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.REGISTRATION_FEES",
       "code": "REV_REG_EMPANELMENT_CONTRACTORSTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "code": "REV_REG_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -4519,6 +4927,30 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "code": "REV_HIRE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "code": "REV_HIRE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "code": "REV_HIRE_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
       "code": "REV_HIRE_TOOLS_EQUIPTAX",
       "financialYear": "2016-30"
     },
@@ -4544,6 +4976,30 @@
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
       "code": "REV_OTHER_LIGHTING_TAXTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "code": "REV_OTHER_IGSTTAX",
       "financialYear": "2016-30"
     },
     {
@@ -4775,6 +5231,30 @@
       "toDate": 1901212199000,
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "code": "REV_USER_IGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.USER_CHARGES",
       "code": "REV_USER_PARKING_CONTRACTTAX",
       "financialYear": "2016-30"
     },
@@ -4920,6 +5400,30 @@
       "periodCycle": "ANNUAL",
       "service": "REVENUE_SECTION.FINES_PENALTIES",
       "code": "REV_FINE_URINATIONTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_CGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_SGSTTAX",
+      "financialYear": "2016-30"
+    },
+    {
+      "fromDate": 1459449000000,
+      "toDate": 1901212199000,
+      "periodCycle": "ANNUAL",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "code": "REV_FINE_IGSTTAX",
       "financialYear": "2016-30"
     },
     {

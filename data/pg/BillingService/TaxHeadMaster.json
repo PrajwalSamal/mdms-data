@@ -1032,6 +1032,36 @@
     {
       "category": "CHARGES",
       "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "name": "CGST Payable",
+      "code": "REV_RENT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "name": "SGST Payable",
+      "code": "REV_RENT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
+      "name": "IGST Payable",
+      "code": "REV_RENT_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.RENTAL_INCOME",
       "name": "Rent from Shopping Complexes",
       "code": "REV_RENT_SHOPPING_COMPLEX",
       "isDebit": false,
@@ -1262,6 +1292,36 @@
     {
       "category": "CHARGES",
       "service": "REVENUE_SECTION.LICENSE_FEES",
+      "name": "CGST Payable",
+      "code": "REV_LICENSE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "name": "SGST Payable",
+      "code": "REV_LICENSE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
+      "name": "IGST Payable",
+      "code": "REV_LICENSE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.LICENSE_FEES",
       "name": "Draftsman License Fee",
       "code": "REV_LICENSE_DRAFTSMAN",
       "isDebit": false,
@@ -1442,6 +1502,36 @@
     {
       "category": "CHARGES",
       "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "name": "CGST Payable",
+      "code": "REV_PROP_CGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "name": "SGST Payable",
+      "code": "REV_PROP_SGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
+      "name": "IGST Payable",
+      "code": "REV_PROP_IGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.PROPERTY_TAX",
       "name": "Property Tax on Commercial Properties",
       "code": "REV_PROP_TAX_COMMERCIAL",
       "isDebit": false,
@@ -1554,6 +1644,36 @@
       "service": "REVENUE_SECTION.WATER_TAX",
       "name": "Metered Water - Domestic Supply",
       "code": "REV_WATER_METERED_DOMESTIC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "name": "CGST Payable",
+      "code": "REV_WATER_CGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "name": "SGST Payable",
+      "code": "REV_WATER_SGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.WATER_TAX",
+      "name": "IGST Payable",
+      "code": "REV_WATER_IGST",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -1684,6 +1804,36 @@
       "service": "REVENUE_SECTION.REVENUE_SALE",
       "name": "Sale of garbage & rubbish",
       "code": "REV_SALE_GARBAGE_RUBBISH",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "name": "CGST Payable",
+      "code": "REV_SALE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "name": "SGST Payable",
+      "code": "REV_SALE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.REVENUE_SALE",
+      "name": "IGST Payable",
+      "code": "REV_SALE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -1892,6 +2042,36 @@
     {
       "category": "CHARGES",
       "service": "REVENUE_SECTION.ENTRY_FEES",
+      "name": "CGST Payable",
+      "code": "REV_ENTRY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "name": "SGST Payable",
+      "code": "REV_ENTRY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
+      "name": "IGST Payable",
+      "code": "REV_ENTRY_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.ENTRY_FEES",
       "name": "Entry fees for Playgrounds",
       "code": "REV_ENTRY_PLAYGROUNDS",
       "isDebit": false,
@@ -1954,6 +2134,36 @@
       "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
       "name": "Advt Tax - Land Hoardings",
       "code": "REV_ADVT_LAND_HOARDINGS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "name": "CGST Payable",
+      "code": "REV_ADVT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "name": "SGST Payable",
+      "code": "REV_ADVT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.ADVERTISEMENT_TAX",
+      "name": "IGST Payable",
+      "code": "REV_ADVT_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -2044,6 +2254,36 @@
       "service": "REVENUE_SECTION.REGISTRATION_FEES",
       "name": "Fees from empanelment of Contractors (undertaking public works)",
       "code": "REV_REG_EMPANELMENT_CONTRACTORS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "name": "CGST Payable",
+      "code": "REV_REG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "name": "SGST Payable",
+      "code": "REV_REG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.REGISTRATION_FEES",
+      "name": "IGST Payable",
+      "code": "REV_REG_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -2272,6 +2512,36 @@
     {
       "category": "CHARGES",
       "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "name": "CGST Payable",
+      "code": "REV_HIRE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "name": "SGST Payable",
+      "code": "REV_HIRE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
+      "name": "IGST Payable",
+      "code": "REV_HIRE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.HIRE_CHARGES",
       "name": "Hire charges on road rollers",
       "code": "REV_HIRE_ROAD_ROLLERS",
       "isDebit": false,
@@ -2304,6 +2574,36 @@
       "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
       "name": "Special Sanitary Tax",
       "code": "REV_OTHER_SPECIAL_SANITARY_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "name": "CGST Payable",
+      "code": "REV_OTHER_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "name": "SGST Payable",
+      "code": "REV_OTHER_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.OTHER_TAX_REVENUE",
+      "name": "IGST Payable",
+      "code": "REV_OTHER_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -2592,6 +2892,36 @@
     {
       "category": "CHARGES",
       "service": "REVENUE_SECTION.USER_CHARGES",
+      "name": "CGST Payable",
+      "code": "REV_USER_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "name": "SGST Payable",
+      "code": "REV_USER_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.USER_CHARGES",
+      "name": "IGST Payable",
+      "code": "REV_USER_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.USER_CHARGES",
       "name": "Funeral Van (Hearse) charges",
       "code": "REV_USER_FUNERAL_VAN",
       "isDebit": false,
@@ -2784,6 +3114,36 @@
       "service": "REVENUE_SECTION.FINES_PENALTIES",
       "name": "Urination Fine",
       "code": "REV_FINE_URINATION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "name": "CGST Payable",
+      "code": "REV_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "name": "SGST Payable",
+      "code": "REV_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "REVENUE_SECTION.FINES_PENALTIES",
+      "name": "IGST Payable",
+      "code": "REV_FINE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5721,6 +6081,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_SLAUGHTERHOUSE_LICENSE_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_SLAUGHTERHOUSE_LICENSE_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.SLAUGHTERHOUSE_LICENSE_FEES",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_SLAUGHTERHOUSE_LICENSE_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.ALL",
       "name": "Licensing fees from slaughter houses",
       "code": "VETERINARY_MVO_ALL_SLAUGHTERHOUSE_LICENSE_FEES",
@@ -5741,6 +6131,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_DOG_REGISTRATION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_DOG_REGISTRATION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.DOG_REGISTRATION_FEES",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_DOG_REGISTRATION_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.ALL",
       "name": "Dog Registration fees MVO",
       "code": "VETERINARY_MVO_ALL_DOG_REGISTRATION_FEES",
@@ -5754,6 +6174,36 @@
       "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
       "name": "Dairy Farm Registration Fee",
       "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.DAIRY_FARM_REGISTRATION",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_DAIRY_FARM_REGISTRATION_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5841,6 +6291,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.MILK_FINE",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_MILK_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MILK_FINE",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_MILK_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MILK_FINE",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_MILK_FINE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.ALL",
       "name": "Milk Fine MVO Section",
       "code": "VETERINARY_MVO_ALL_MILK_FINE",
@@ -5854,6 +6334,36 @@
       "service": "VETERINARY_MVO.MEAT_FINE",
       "name": "Meat Fine MVO Section",
       "code": "VETERINARY_MVO_MEAT_FINE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MEAT_FINE",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_MEAT_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MEAT_FINE",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_MEAT_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MEAT_FINE",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_MEAT_FINE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5881,6 +6391,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.PENALTY_FINE",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_PENALTY_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.PENALTY_FINE",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_PENALTY_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.PENALTY_FINE",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_PENALTY_FINE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.ALL",
       "name": "Penalties/Fine MVO Section",
       "code": "VETERINARY_MVO_ALL_PENALTY_FINE",
@@ -5894,6 +6434,36 @@
       "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
       "name": "Recovery of Transportation MVO Sec",
       "code": "VETERINARY_MVO_TRANSPORT_RECOVERY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_TRANSPORT_RECOVERY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_TRANSPORT_RECOVERY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.TRANSPORT_RECOVERY",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_TRANSPORT_RECOVERY_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5921,6 +6491,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_CATTLE_IMPOUNDING_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_CATTLE_IMPOUNDING_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.CATTLE_IMPOUNDING_FEE",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_CATTLE_IMPOUNDING_FEE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.ALL",
       "name": "Cattle Impounding Fee MVO",
       "code": "VETERINARY_MVO_ALL_CATTLE_IMPOUNDING_FEE",
@@ -5934,6 +6534,36 @@
       "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
       "name": "Recovery Frm Employee MVO",
       "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.RECOVERY_EMPLOYEE",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_RECOVERY_EMPLOYEE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5961,6 +6591,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "VETERINARY_MVO.BOVINE_MAINTENANCE_COST",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_BOVINE_MAINTENANCE_COST_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.BOVINE_MAINTENANCE_COST",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_BOVINE_MAINTENANCE_COST_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.BOVINE_MAINTENANCE_COST",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_BOVINE_MAINTENANCE_COST_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "VETERINARY_MVO.ALL",
       "name": "Maintenance Cost of Bovine MVO",
       "code": "VETERINARY_MVO_ALL_BOVINE_MAINTENANCE_COST",
@@ -5974,6 +6634,36 @@
       "service": "VETERINARY_MVO.COMPOUNDING_FEE",
       "name": "Compounding Fee Mvo",
       "code": "VETERINARY_MVO_COMPOUNDING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.COMPOUNDING_FEE",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_COMPOUNDING_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.COMPOUNDING_FEE",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_COMPOUNDING_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.COMPOUNDING_FEE",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_COMPOUNDING_FEE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6002,6 +6692,36 @@
     {
       "category": "CHARGES",
       "service": "VETERINARY_MVO.MISC_FEES",
+      "name": "CGST Payable",
+      "code": "VETERINARY_MVO_MISC_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MISC_FEES",
+      "name": "SGST Payable",
+      "code": "VETERINARY_MVO_MISC_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.MISC_FEES",
+      "name": "IGST Payable",
+      "code": "VETERINARY_MVO_MISC_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "VETERINARY_MVO.ALL",
       "name": "Misc Fee Mvo Sec",
       "code": "VETERINARY_MVO_ALL_MISC_FEES",
       "isDebit": false,
