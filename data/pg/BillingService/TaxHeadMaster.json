@@ -5080,6 +5080,66 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "CGST Payable",
+      "code": "HLT_ALL_HOUSE_FAL_FE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "SGST Payable",
+      "code": "HLT_ALL_HOUSE_FAL_FE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "HEALTH_SECTION.ALL",
+      "name": "IGST Payable",
+      "code": "HLT_ALL_HOUSE_FAL_FE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_RENT_GROUND_FIELD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_RENT_GROUND_FIELD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_RENT_GROUND_FIELD_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.RENT_GROUND_FIELD",
       "name": "Rent from Ground and Field- Khilafwarzi Section",
@@ -5094,6 +5154,36 @@
       "service": "KHILAFWARZI_SECTION.ALL",
       "name": "Rent from Ground and Field- Khilafwarzi Section",
       "code": "KHILAFWARZI_ALL_RENT_GROUND_FIELD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.NOC_FEE",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_NOC_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.NOC_FEE",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_NOC_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.NOC_FEE",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_NOC_FEE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5120,6 +5210,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.DEMOLITION_CHARGES",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_DEMOLITION_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.DEMOLITION_CHARGES",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_DEMOLITION_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.DEMOLITION_CHARGES",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_DEMOLITION_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.DEMOLITION_CHARGES",
       "name": "Demolition Charges",
@@ -5134,6 +5254,36 @@
       "service": "KHILAFWARZI_SECTION.ALL",
       "name": "Demolition Charges",
       "code": "KHILAFWARZI_ALL_DEMOLITION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.TRANSPORT_RECOVERY",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_TRANSPORT_RECOVERY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.TRANSPORT_RECOVERY",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_TRANSPORT_RECOVERY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.TRANSPORT_RECOVERY",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_TRANSPORT_RECOVERY_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5160,6 +5310,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.COPYING_FEE",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_COPYING_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.COPYING_FEE",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_COPYING_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.COPYING_FEE",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_COPYING_FEE_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.COPYING_FEE",
       "name": "Copying Fee Khilafwarzi Sec",
@@ -5174,6 +5354,36 @@
       "service": "KHILAFWARZI_SECTION.ALL",
       "name": "Copying Fee Khilafwarzi Sec",
       "code": "KHILAFWARZI_ALL_COPYING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.FINE_PENALTY",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_FINE_PENALTY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.FINE_PENALTY",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_FINE_PENALTY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.FINE_PENALTY",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_FINE_PENALTY_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5200,6 +5410,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_COMPOUNDING_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_COMPOUNDING_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_COMPOUNDING_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.COMPOUNDING_FEE",
       "name": "Compounding Fee Khalifwarzi Sec",
@@ -5214,6 +5454,36 @@
       "service": "KHILAFWARZI_SECTION.ALL",
       "name": "Compounding Fee Khalifwarzi Sec",
       "code": "KHILAFWARZI_ALL_COMPOUNDING",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.RECOVERY_EMPLOYEE",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_RECOVERY_EMPLOYEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.RECOVERY_EMPLOYEE",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_RECOVERY_EMPLOYEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.RECOVERY_EMPLOYEE",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_RECOVERY_EMPLOYEE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5250,10 +5520,100 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.SANITATION_CHARGES",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_SANITATION_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.SANITATION_CHARGES",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_SANITATION_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.SANITATION_CHARGES",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_SANITATION_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "CGST Payable",
+      "code": "KHILAFWARZI_ALL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "SGST Payable",
+      "code": "KHILAFWARZI_ALL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "KHILAFWARZI_SECTION.ALL",
+      "name": "IGST Payable",
+      "code": "KHILAFWARZI_ALL_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "KHILAFWARZI_SECTION.ALL",
       "name": "Sanitation Charges- Khilafwarzi Section",
       "code": "KHILAFWARZI_ALL_SANITATION",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.PENALTY_FINE",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_PENALTY_FINE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.PENALTY_FINE",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_PENALTY_FINE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.PENALTY_FINE",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_PENALTY_FINE_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5280,6 +5640,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_CONTRACT_CANCEL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_CONTRACT_CANCEL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_CONTRACT_CANCEL_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.CONTRACT_CANCELLATION_PENALTY",
       "name": "Penalties & Cancellation of Contract (CDR)",
@@ -5294,6 +5684,36 @@
       "service": "OTHER_SERVICE_MISC.ALL",
       "name": "Penalties & Cancellation of Contract (CDR)",
       "code": "OTHER_MISC_ALL_CONTRACT_CANCEL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.MISC_FEES",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_MISC_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.MISC_FEES",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_MISC_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.MISC_FEES",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_MISC_FEES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5320,6 +5740,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.GST_AUCTION",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_GST_AUCTION_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.GST_AUCTION",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_GST_AUCTION_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.GST_AUCTION",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_GST_AUCTION_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.GST_AUCTION",
       "name": "GST From Auction",
@@ -5340,6 +5790,36 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_RECOVERY_CONTRACTOR_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_RECOVERY_CONTRACTOR_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_RECOVERY_CONTRACTOR_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.RECOVERY_CONTRACTOR",
       "name": "Recovery from Contractor- Other Service Miscellaneous",
@@ -5354,6 +5834,36 @@
       "service": "OTHER_SERVICE_MISC.ALL",
       "name": "Recovery from Contractor- Other Service Miscellaneous",
       "code": "OTHER_MISC_ALL_RECOVERY_CONTRACTOR",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.SALE_TENDER_PAPERS",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_SALE_TENDER_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.SALE_TENDER_PAPERS",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_SALE_TENDER_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.SALE_TENDER_PAPERS",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_SALE_TENDER_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5390,10 +5900,100 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.SALE_ITEMS_SCRAP",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_SALE_SCRAP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.SALE_ITEMS_SCRAP",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_SALE_SCRAP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.SALE_ITEMS_SCRAP",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_SALE_SCRAP_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "CGST Payable",
+      "code": "OTHER_MISC_ALL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "SGST Payable",
+      "code": "OTHER_MISC_ALL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER_SERVICE_MISC.ALL",
+      "name": "IGST Payable",
+      "code": "OTHER_MISC_ALL_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "service": "OTHER_SERVICE_MISC.ALL",
       "name": "Sales of Other Items and Scraps",
       "code": "OTHER_MISC_ALL_SALE_SCRAP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
+      "name": "CGST Payable",
+      "code": "PHE_JAL_SHAKTI_WATER_FILLING_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
+      "name": "SGST Payable",
+      "code": "PHE_JAL_SHAKTI_WATER_FILLING_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PHE_JAL_SHAKTI.WATER_FILLING_CHARGES",
+      "name": "IGST Payable",
+      "code": "PHE_JAL_SHAKTI_WATER_FILLING_CHARGES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5421,6 +6021,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.TRANSPORT_RECOVERY_CHARGES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_TRANSPORT_RECOVERY_CHARGES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.ALL",
       "name": "Recovery of Transportation Charges- Transport Section",
       "code": "TRANSPORT_SECTION_ALL_TRANSPORT_RECOVERY_CHARGES",
@@ -5434,6 +6064,36 @@
       "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
       "name": "Excess Payment Recovery from Contractor- Transport Section",
       "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.EXCESS_PAYMENT_RECOVERY",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_EXCESS_PAYMENT_RECOVERY_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5461,6 +6121,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.COMPOUNDING_FEES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_COMPOUNDING_FEES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.ALL",
       "name": "Compounding fees- Transport Section",
       "code": "TRANSPORT_SECTION_ALL_COMPOUNDING_FEES",
@@ -5474,6 +6164,36 @@
       "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
       "name": "Water/Septic Tank Fees",
       "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_SEPTIC_TANK_FEES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_SEPTIC_TANK_FEES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5501,6 +6221,36 @@
     },
     {
       "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.SEWERAGE_CLEANING_CHARGES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_SEWERAGE_CLEANING_CHARGES_IGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "TRANSPORT_SECTION.ALL",
       "name": "Sewerage cleaning charges",
       "code": "TRANSPORT_SECTION_ALL_SEWERAGE_CLEANING_CHARGES",
@@ -5514,6 +6264,36 @@
       "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
       "name": "Charges for supply of water by tankers",
       "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "name": "CGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "name": "SGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TRANSPORT_SECTION.WATER_TANKER_SUPPLY_CHARGES",
+      "name": "IGST Payable",
+      "code": "TRANSPORT_SECTION_WATER_TANKER_SUPPLY_CHARGES_IGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
