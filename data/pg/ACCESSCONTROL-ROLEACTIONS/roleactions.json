@@ -34010,6 +34010,12 @@
       "actionid": 3116,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3509,
+      "actioncode": "",
+      "tenantId": "pg"
     }
 
   ]
