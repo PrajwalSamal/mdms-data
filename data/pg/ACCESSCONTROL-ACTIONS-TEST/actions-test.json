@@ -3291,7 +3291,7 @@
       "serviceCode": "MIS-Dashboard",
       "code": "null",
       "path": "Dashboard",
-      "navigationURL": "/mis-dashboard/",
+      "navigationURL": "/mis-dashboard-be",
       "leftIcon": "",
       "rightIcon": ""
     },
