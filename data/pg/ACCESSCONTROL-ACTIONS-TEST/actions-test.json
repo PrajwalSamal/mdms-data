@@ -22066,6 +22066,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Period End Activities.Utilization Certificate.Modify Utilization Certificate",
       "navigationURL": "/services/EGF/utilization_certificate/search/edit"
+    },
+    {
+      "id": 3117,
+      "name": "Edit Receipt",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Edit Receipt",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Revenue/Collections.Edit Receipts",
+      "navigationURL": "/services/collection/receipts/editreceipt/"
     }
   ]
 }
