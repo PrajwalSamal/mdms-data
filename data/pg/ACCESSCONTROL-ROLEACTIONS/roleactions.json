@@ -34016,6 +34016,18 @@
       "actionid": 3509,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EDIT_RECEIPT_USER",
+      "actionid": 3117,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EDIT_RECEIPT_ADMIN",
+      "actionid": 3117,
+      "actioncode": "",
+      "tenantId": "pg"
     }
 
   ]
