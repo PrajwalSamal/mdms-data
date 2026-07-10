@@ -3291,7 +3291,7 @@
       "serviceCode": "MIS-Dashboard",
       "code": "null",
       "path": "Dashboard",
-      "navigationURL": "/mis-dashboard/",
+      "navigationURL": "/mis-dashboard",
       "leftIcon": "",
       "rightIcon": ""
     },
@@ -22079,7 +22079,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Revenue/Collections.Edit Receipts",
-      "navigationURL": "/editreceipt"
+      "navigationURL": "/services/collection/receipts/editreceipt"
     }
   ]
 }
