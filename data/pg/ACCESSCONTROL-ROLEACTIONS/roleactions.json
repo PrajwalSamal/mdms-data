@@ -15226,18 +15226,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 3113,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 3113,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "BPA_NOC_VERIFIER",
       "actionid": 1950,
       "actioncode": "",
@@ -15336,18 +15324,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1980,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1981,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 1981,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -33666,12 +33642,6 @@
     {
       "rolecode": "EGF_SUPERUSER",
       "actionid": 3036,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_SUPERUSER",
-      "actionid": 1981,
       "actioncode": "",
       "tenantId": "pg"
     },
