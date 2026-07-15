@@ -17,6 +17,10 @@
             "jsonPath" : "emailId",
             "type" : "Normal"
           },
+             {
+            "jsonPath" : "password",
+            "type" : "Normal"
+          },
           {
             "jsonPath" : "username",
             "type" : "Normal"
