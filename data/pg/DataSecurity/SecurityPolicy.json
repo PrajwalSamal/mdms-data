@@ -10,6 +10,12 @@
       },
       "attributes": [
         {
+          "name": "password",
+          "jsonPath": "password",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
           "name": "name",
           "jsonPath": "name",
           "patternId": "002",
