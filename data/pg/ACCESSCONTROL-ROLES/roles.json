@@ -956,6 +956,11 @@
       "code": "EDIT_RECEIPT_ADMIN",
       "name": "EDIT RECEIPT ADMIN",
       "description": "Role for Edit Receipts"
+    },
+    {
+      "code": "EGF_ALL_ULB_REPORT_VIEWER",
+      "name": "EGF ALL ULB REPORT VIEWER",
+      "description": "Role for viewing all ULB reports"
     }
     
   ]
