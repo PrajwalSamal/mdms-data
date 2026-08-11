@@ -93,55 +93,55 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3500,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3501,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3502,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3506,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3507,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3508,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3503,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3504,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EGF_ALL_ULB_REPORT_VIEWER",
       "actionid": 3505,
       "actioncode": "",
       "tenantId": "pg"
@@ -13672,61 +13672,6 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 3500,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3501,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3502,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3506,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3507,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3508,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3503,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3504,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 3505,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    
-    {
-      "rolecode": "STADMIN",
       "actionid": 1958,
       "actioncode": "",
       "tenantId": "pg"
@@ -15226,18 +15171,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 3113,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 3113,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "BPA_NOC_VERIFIER",
       "actionid": 1950,
       "actioncode": "",
@@ -15336,18 +15269,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1980,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1981,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 1981,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -33671,12 +33592,6 @@
     },
     {
       "rolecode": "EGF_SUPERUSER",
-      "actionid": 1981,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_SUPERUSER",
       "actionid": 1611,
       "actioncode": "",
       "tenantId": "pg"
@@ -34008,6 +33923,24 @@
     {
       "rolecode": "EGF_SUPERUSER",
       "actionid": 3116,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3509,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EDIT_RECEIPT_USER",
+      "actionid": 3117,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EDIT_RECEIPT_ADMIN",
+      "actionid": 3117,
       "actioncode": "",
       "tenantId": "pg"
     }
