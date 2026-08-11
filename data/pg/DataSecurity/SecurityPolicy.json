@@ -9,6 +9,7 @@
         "jsonPath": "/uuid"
       },
       "attributes": [
+      
         {
           "name": "name",
           "jsonPath": "name",
