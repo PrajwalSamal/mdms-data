@@ -22080,6 +22080,48 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Revenue/Collections.Edit Receipts",
       "navigationURL": "/services/collection/receipts/editreceipt"
+    },
+    {
+      "id": 3118,
+      "name": "Create Asset",
+      "url": "/services/EGF/fixed_asset_register/new",
+      "parentModule": "",
+      "displayName": "Create Asset",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Assets.Create Asset",
+      "navigationURL": "/services/EGF/fixed_asset_register/new"
+    },
+    {
+      "id": 3119,
+      "name": "Asset Register",
+      "url": "/services/EGF/fixed_asset_register/search/view",
+      "parentModule": "",
+      "displayName": "Asset Register",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Assets.Asset Register",
+      "navigationURL": "/services/EGF/fixed_asset_register/search/view"
+    },
+    {
+      "id": 3120,
+      "name": "Update Asset",
+      "url": "/services/EGF/fixed_asset_register/search/edit",
+      "parentModule": "",
+      "displayName": "Update Asset",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Assets.Update Asset",
+      "navigationURL": "/services/EGF/fixed_asset_register/search/edit"
     }
   ]
 }

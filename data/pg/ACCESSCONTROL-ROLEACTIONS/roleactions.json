@@ -33922,6 +33922,42 @@
     },
     {
       "rolecode": "EGF_SUPERUSER",
+      "actionid": 3118,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3118,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_SUPERUSER",
+      "actionid": 3119,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3119,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_SUPERUSER",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_SUPERUSER",
       "actionid": 3116,
       "actioncode": "",
       "tenantId": "pg"
