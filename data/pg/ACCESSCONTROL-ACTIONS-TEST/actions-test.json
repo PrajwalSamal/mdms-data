@@ -10385,7 +10385,7 @@
       "displayName": "Collection Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "UC.Reports.CollectionReport",
@@ -10399,7 +10399,7 @@
       "url": "/report/mcollect/MCollectCollectionReport/_get",
       "displayName": "Collection Report",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MCOLLECTCOLLECTIONREPORT",
       "code": "null",
       "path": "Collection Report"
@@ -10410,7 +10410,7 @@
       "url": "/report/mcollect/MCollectCollectionReport/metadata/_get",
       "displayName": "Collection Report",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MCOLLECTCOLLECTIONREPORTMETADATA",
       "code": "null",
       "path": "Collection Report"
