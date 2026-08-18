@@ -33,7 +33,7 @@
         { "code": "pg.baramulla" }, { "code": "pg.sopore" }, { "code": "pg.kunzer" }, { "code": "pg.pattan" },
         { "code": "pg.uri" }, { "code": "pg.watergam" }, { "code": "pg.gulmargtangmarg" },
         { "code": "pg.bandipora" }, { "code": "pg.sumbal" }, { "code": "pg.hajin" },
-        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" }
+        { "code": "pg.kupwara" }, { "code": "pg.handwara" }, { "code": "pg.langate" },{ "code": "pg.testing" }
       ]
     },
 
