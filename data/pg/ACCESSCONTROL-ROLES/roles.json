@@ -961,6 +961,11 @@
       "code": "EGF_ALL_ULB_REPORT_VIEWER",
       "name": "EGF ALL ULB REPORT VIEWER",
       "description": "Role for viewing all ULB reports"
+    },
+    {
+      "code": "EGF_ASSET_REGISTER",
+      "name": "EGF ASSET REGISTER",
+      "description": "Role for registering assets"
     }
     
   ]
