@@ -33979,7 +33979,27 @@
       "actionid": 3117,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ASSET_REGISTER",
+      "actionid": 3118,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ASSET_REGISTER",
+      "actionid": 3119,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ASSET_REGISTER",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "pg"
     }
+    
+
 
   ]
 }
