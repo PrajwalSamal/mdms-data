@@ -33843,6 +33843,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "EGF_SUPERUSER",
       "actionid": 3112,
       "actioncode": "",
