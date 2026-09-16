@@ -2,7 +2,7 @@
   "tenantId": "pg.chadoora",
   "moduleName": "FinanceModule",
   "BankAccountServiceMapping": [
-    {
+        {
       "businessDetails": "ACCOUNT_SECTION.INTEREST_SMART_SAVER",
       "bankAccount": "0008040500034895",
       "bank": "Jammu and Kashmir Bank.",
@@ -270,7 +270,7 @@
     },
     {
       "businessDetails": "HEALTH_SECTION.USER_CHARGES",
-      "bankAccount": "0135040500000046",
+      "bankAccount": "0008040500034895",
       "bank": "Jammu and Kashmir Bank.",
       "bankBranch": "JAKA0CHADUR",
       "tenantId": "pg.chadoora"
@@ -550,7 +550,7 @@
     },
     {
       "businessDetails": "REVENUE_SECTION.USER_CHARGES",
-      "bankAccount": "0135040500000046",
+      "bankAccount": "0008040500034895",
       "bank": "Jammu and Kashmir Bank.",
       "bankBranch": "JAKA0CHADUR",
       "tenantId": "pg.chadoora"
